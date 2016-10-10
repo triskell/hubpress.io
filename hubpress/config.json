@@ -4,7 +4,12 @@
     "repositoryName": "triskell.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "twitter": "@tryxell",
+    "github": "Triskell"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
