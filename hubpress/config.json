@@ -4,7 +4,9 @@
     "repositoryName": "triskell.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "disqus": "triskell-github-io"
+  },
   "socialnetwork": {
     "twitter": "tryxell",
     "github": "Triskell"
