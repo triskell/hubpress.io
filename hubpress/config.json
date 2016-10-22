@@ -5,6 +5,7 @@
     "branch": "master"
   },
   "site": {
+    "googleAnalytics": "UA-86103482-1",
     "disqus": "triskell-github-io"
   },
   "socialnetwork": {
