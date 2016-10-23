@@ -5,6 +5,8 @@
     "branch": "master"
   },
   "site": {
+    "title": "Triskell's wanderings",
+    "cover": "https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg",
     "googleAnalytics": "UA-86103482-1",
     "disqus": "triskell-github-io"
   },
@@ -13,6 +15,6 @@
     "github": "Triskell"
   },
   "theme": {
-    "name": "casper"
+    "name": "uno-zen"
   }
 }
