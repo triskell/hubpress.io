@@ -11,8 +11,9 @@
     "disqus": "triskell-github-io"
   },
   "socialnetwork": {
-    "twitter": "tryxell",
-    "github": "Triskell"
+    "twitter": "https://twitter.com/tryxell",
+    "linkedin": "https://fr.linkedin.com/in/thomas-abot-9a285488",
+    "github": "https://github.com/triskell"
   },
   "theme": {
     "name": "saga"
