@@ -1,0 +1,14 @@
+= What is Machine Learning ?
+
+:hp-tags: Machine Learning, ML, 101, drawing, fun
+
+_Disclaimer: I'm not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)_
+
+image::http://github.com/triskell/triskell.github.io/blob/master/images/ML101_WiML_1.jpg[]
+image::http://github.com/triskell/triskell.github.io/blob/master/images/ML101_WiML_2.jpg[]
+image::http://github.com/triskell/triskell.github.io/blob/master/images/ML101_WiML_3.jpg[]
+image::http://github.com/triskell/triskell.github.io/blob/master/images/ML101_WiML_4.jpg[]
+image::http://github.com/triskell/triskell.github.io/blob/master/images/ML101_WiML_5.jpg[]
+
+Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA]).
+
