@@ -1,6 +1,7 @@
 = What is Machine Learning ?
 
 :hp-tags: Machine Learning, ML, 101, drawing, fun
+:hp-image: http://wallpaperlayer.com/img/2015/8/pizza-wallpaper-hd-200-249-hd-wallpapers.jpg
 
 _Disclaimer: I'm not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)_
 
