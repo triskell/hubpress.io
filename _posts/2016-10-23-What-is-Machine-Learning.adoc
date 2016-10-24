@@ -11,5 +11,7 @@ image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/imag
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_4.jpg[]
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_5.jpg[]
 
-Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA]).
+Next time, we will learn about "Supervised and Unsupervised Learning". *Stay tuned, I'm drawing it ;)*
+
+_Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
 
