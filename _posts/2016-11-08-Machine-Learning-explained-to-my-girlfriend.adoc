@@ -1,4 +1,4 @@
-= Mechine Learning explained to my girlfriend
+= Machine Learning explained to my girlfriend
 
 :hp-tags: Machine Learning, ML, 101, summary, Machine Learning explained to my girlfirend
 :hp-image: http://sf.co.ua/15/10/wallpaper-1ee5d0.jpg
