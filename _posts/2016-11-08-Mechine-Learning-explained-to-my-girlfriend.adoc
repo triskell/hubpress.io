@@ -3,11 +3,16 @@
 :hp-tags: Machine Learning, ML, 101, summary, Machine Learning explained to my girlfirend
 :hp-image: http://sf.co.ua/15/10/wallpaper-1ee5d0.jpg
 
-Summary
-------
+Welcome to my series of posts _Machine Learning explained to my girlfirend_. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
+
+Here are the parts of the series : 
 
 * *Part 1* : https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[What is Machine Learning ?]
 * *Part 2* : (Work in progress) Supervised Learning & unsupervised Learning. 
+
+I will update this list when I will publish new posts.
+
+I hope you will enjoy it, and have fun with Machine Learning. Just because _Machine Learning is fun_ !
 
 _Drawings in those posts are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
 
