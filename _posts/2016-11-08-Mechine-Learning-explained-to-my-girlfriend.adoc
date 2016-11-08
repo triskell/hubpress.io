@@ -1,0 +1,13 @@
+= Mechine Learning explained to my girlfriend
+
+:hp-tags: Machine Learning, ML, 101, summary, Machine Learning explained to my girlfirend
+:hp-image: http://sf.co.ua/15/10/wallpaper-1ee5d0.jpg
+
+Summary
+------
+
+* *Part 1* : https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[What is Machine Learning ?]
+* *Part 2* : (Work in progress) Supervised Learning & unsupervised Learning. 
+
+_Drawings in those posts are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
+
