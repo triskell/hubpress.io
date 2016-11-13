@@ -14,7 +14,11 @@ image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/imag
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_5.jpg[]
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_6.jpg[]
 
-While I'm drawing next part, you can follow me on twitter https://twitter.com/tryxell[@tryxell] to keep up to date and tweet your opinion about this series to me !
+
+
+While I'm drawing next part, you can follow me on twitter https://twitter.com/tryxell[@tryxell] to be notified about next publications and give me your opinion about it!  
+
+I would love you to share this all around you. Thanks!
 
 _Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
 
