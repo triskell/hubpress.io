@@ -13,7 +13,7 @@ image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/imag
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_4.jpg[]
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_5.jpg[]
 
-Next time, we will learn about "Supervised and Unsupervised Learning". *Stay tuned, I'm drawing it ;)*
+Next time, we will learn about https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html[Supervised Learning and Unsupervised Learning].
 
 _Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
 
