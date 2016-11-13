@@ -3,7 +3,7 @@
 :hp-tags: Machine Learning, ML, 101, drawing, fun, Machine Learning explained to my girlfirend
 :hp-image: https://4.bp.blogspot.com/-3PppEaXCOJo/V40_-tJQWII/AAAAAAAADE8/NjMMYMHX-SYPQHiR_fkXDYyoG1PXtO1iQCLcB/s1600/frijoles_opt.jpg
 
-This is the first post in my project *Machine Learning explained to my girlfriend*, which aims to explain Machine Learning concepts with simple words and fun drawings.
+In the first part of https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html[Machine Learning explained to my girlfriend], we discovered https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[what is Machine Learning]. Now, let's have a look to *Supervised Learning* and *Unsupervised Learning*. Enjoy !
 
 _Disclaimer: I'm not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)_
 
@@ -14,7 +14,7 @@ image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/imag
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_5.jpg[]
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_6.jpg[]
 
-I'm drawing next part. You can stay 
+While I'm drawing next part, you can follow me on twitter https://twitter.com/tryxell[@tryxell] to keep up to date and tweet your opinion about this series to me !
 
 _Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
 
