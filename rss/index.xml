@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 13 Nov 2016 20:41:43 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Supervised Learning and Unsupervised Learning]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 13 Nov 2016 20:42:29 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Supervised Learning and Unsupervised Learning]]></title><description><![CDATA[<div class="paragraph">
 <p>In the first part of <a href="https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html">Machine Learning explained to my girlfriend</a>, we discovered <a href="https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html">what is Machine Learning</a>. Now, let&#8217;s have a look to <strong>Supervised Learning</strong> and <strong>Unsupervised Learning</strong>. Enjoy !</p>
 </div>
 <div class="paragraph">
@@ -42,34 +42,7 @@
 </div>
 <div class="paragraph">
 <p><em>Those drawings are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ ML]]></category><category><![CDATA[ 101]]></category><category><![CDATA[ drawing]]></category><category><![CDATA[ fun]]></category><category><![CDATA[ Machine Learning explained to my girlfirend]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Machine Learning explained to my girlfriend]]></title><description><![CDATA[<div class="paragraph">
-<p>Welcome to my series of posts <em>Machine Learning explained to my girlfirend</em>. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.</p>
-</div>
-<div class="paragraph">
-<p>Here are the parts of the series :</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><strong>Part 1</strong> : <a href="https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html">What is Machine Learning ?</a></p>
-</li>
-<li>
-<p><strong>Part 2</strong> : <a href="https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html">Supervised Learning &amp; Unsupervised Learning</a></p>
-</li>
-<li>
-<p><strong>To be continued&#8230;&#8203;</strong></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>I will update this list when I will publish new posts.</p>
-</div>
-<div class="paragraph">
-<p>I hope you will enjoy it, and have fun with Machine Learning. Just because <em>Machine Learning is fun</em> !</p>
-</div>
-<div class="paragraph">
-<p><em>Drawings in those posts are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ ML]]></category><category><![CDATA[ 101]]></category><category><![CDATA[ summary]]></category><category><![CDATA[ Machine Learning explained to my girlfirend]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Tue, 08 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[What is Machine Learning ?]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ ML]]></category><category><![CDATA[ 101]]></category><category><![CDATA[ drawing]]></category><category><![CDATA[ fun]]></category><category><![CDATA[ Machine Learning explained to my girlfirend]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[What is Machine Learning ?]]></title><description><![CDATA[<div class="paragraph">
 <p>This is the first post in my project <strong>Machine Learning explained to my girlfriend</strong>, which aims to explain Machine Learning concepts with simple words and fun drawings.</p>
 </div>
 <div class="paragraph">
