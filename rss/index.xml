@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 13 Nov 2016 20:42:29 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Supervised Learning and Unsupervised Learning]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 13 Nov 2016 20:43:20 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Supervised Learning and Unsupervised Learning]]></title><description><![CDATA[<div class="paragraph">
 <p>In the first part of <a href="https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html">Machine Learning explained to my girlfriend</a>, we discovered <a href="https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html">what is Machine Learning</a>. Now, let&#8217;s have a look to <strong>Supervised Learning</strong> and <strong>Unsupervised Learning</strong>. Enjoy !</p>
 </div>
 <div class="paragraph">
@@ -42,40 +42,4 @@
 </div>
 <div class="paragraph">
 <p><em>Those drawings are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ ML]]></category><category><![CDATA[ 101]]></category><category><![CDATA[ drawing]]></category><category><![CDATA[ fun]]></category><category><![CDATA[ Machine Learning explained to my girlfirend]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[What is Machine Learning ?]]></title><description><![CDATA[<div class="paragraph">
-<p>This is the first post in my project <strong>Machine Learning explained to my girlfriend</strong>, which aims to explain Machine Learning concepts with simple words and fun drawings.</p>
-</div>
-<div class="paragraph">
-<p><em>Disclaimer: I&#8217;m not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)</em></p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_1.jpg" alt="ML101 WiML 1.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_2.jpg" alt="ML101 WiML 2.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_3.jpg" alt="ML101 WiML 3.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_4.jpg" alt="ML101 WiML 4.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_5.jpg" alt="ML101 WiML 5.jpg">
-</div>
-</div>
-<div class="paragraph">
-<p>Next time, we will learn about "Supervised and Unsupervised Learning". <strong>Stay tuned, I&#8217;m drawing it ;)</strong></p>
-</div>
-<div class="paragraph">
-<p><em>Those drawings are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/10/23/What-is-Machine-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/10/23/What-is-Machine-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ ML]]></category><category><![CDATA[ 101]]></category><category><![CDATA[ drawing]]></category><category><![CDATA[ fun]]></category><category><![CDATA[ Machine Learning explained to my girlfirend]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 23 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ ML]]></category><category><![CDATA[ 101]]></category><category><![CDATA[ drawing]]></category><category><![CDATA[ fun]]></category><category><![CDATA[ Machine Learning explained to my girlfirend]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate></item></channel></rss>
