@@ -3,7 +3,7 @@
 :hp-tags: Machine Learning, ML, 101, drawing, fun, Machine Learning explained to my girlfirend
 :hp-image: http://wallpaperlayer.com/img/2015/8/pizza-wallpaper-hd-200-249-hd-wallpapers.jpg
 
-This is the first post in my project *Machine Learning explained to my girlfriend*, which aims to explain Machine Learning concepts with simple words and fun drawings.
+This is the first post in my project https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html[Machine Learning explained to my girlfriend] which aims to explain Machine Learning concepts with simple words and fun drawings.
 
 _Disclaimer: I'm not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)_
 
