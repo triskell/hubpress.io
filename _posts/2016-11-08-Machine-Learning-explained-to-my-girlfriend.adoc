@@ -3,7 +3,7 @@
 :hp-tags: Machine Learning, ML, 101, summary, Machine Learning explained to my girlfirend
 :hp-image: http://sf.co.ua/15/10/wallpaper-1ee5d0.jpg
 
-Welcome to my series of posts https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html[Machine Learning explained to my girlfirend]. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
+Welcome to my series of posts _Machine Learning explained to my girlfirend_. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
 
 Here are the parts of the series : 
 
