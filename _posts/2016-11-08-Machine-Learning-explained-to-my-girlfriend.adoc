@@ -8,7 +8,8 @@ Welcome to my series of posts _Machine Learning explained to my girlfirend_. It 
 Here are the parts of the series : 
 
 * *Part 1* : https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[What is Machine Learning ?]
-* *Part 2* : (Work in progress) Supervised Learning & unsupervised Learning. 
+* *Part 2* : https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html[Supervised Learning & Unsupervised Learning]
+* *To be continued...*
 
 I will update this list when I will publish new posts.
 
