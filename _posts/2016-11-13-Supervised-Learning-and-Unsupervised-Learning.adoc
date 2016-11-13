@@ -1,0 +1,20 @@
+= Supervised Learning and Unsupervised Learning
+
+:hp-tags: Machine Learning, ML, 101, drawing, fun, Machine Learning explained to my girlfirend
+:hp-image: https://4.bp.blogspot.com/-3PppEaXCOJo/V40_-tJQWII/AAAAAAAADE8/NjMMYMHX-SYPQHiR_fkXDYyoG1PXtO1iQCLcB/s1600/frijoles_opt.jpg
+
+This is the first post in my project *Machine Learning explained to my girlfriend*, which aims to explain Machine Learning concepts with simple words and fun drawings.
+
+_Disclaimer: I'm not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)_
+
+image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_1.jpg[]
+image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_2.jpg[]
+image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_3.jpg[]
+image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_4.jpg[]
+image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_5.jpg[]
+image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_6.jpg[]
+
+I'm drawing next part. You can stay 
+
+_Those drawings are under Creative Common license (https://creativecommons.org/licenses/by-nc-sa/4.0/[BY-NC-SA])._
+
