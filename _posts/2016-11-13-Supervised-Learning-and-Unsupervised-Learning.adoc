@@ -7,7 +7,7 @@ In the first part of https://triskell.github.io/2016/11/08/Machine-Learning-expl
 
 _Disclaimer: I'm not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)_
 
-_For those who have been "chocked" or "disappointed" by the title of this series. All my apologies, but I assume this title. I did not wanted to offense anyone. Yes, this is how I explain it to her. She is very smart, but not in the same domains, she loves history and books which I do not know anything about, so she wanted to understand what I do. It won't be about her, I'm not a pervert to show her here. But she inspired me this series. So, why not refering to her in the title? That's a bit like a tribute to her who inspired me. No offense. (BTW, I she is a bit confused about some reactions, and she is glad I was thinking to her when I wrote thos posts)_
+_For those who have been "chocked" or "disappointed" by the title of this series. All my apologies, but I assume this title. I did not wanted to offense anyone. Yes, this is how I explain it to her. She is very smart, but not in the same domains, she loves history and books which I do not know anything about, so she wanted to understand what I do. It won't be about her, I'm not a pervert to show her here. But she inspired me this series. So, why not refering to her in the title? That's a bit like a tribute to her who inspired me. No offense. (BTW, I she is a bit confused about some reactions, and she is glad I was thinking to her when I wrote those posts)_
 
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_1.jpg[]
 image::https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_2.jpg[]
