@@ -1,7 +1,7 @@
 = Supervised Learning and Unsupervised Learning
 
 :hp-tags: Machine Learning, ML, 101, drawing, fun, Machine Learning explained to my girlfirend
-:hp-image: https://4.bp.blogspot.com/-3PppEaXCOJo/V40_-tJQWII/AAAAAAAADE8/NjMMYMHX-SYPQHiR_fkXDYyoG1PXtO1iQCLcB/s1600/frijoles_opt.jpg
+:hp-image: http://www.rd.com/wp-content/uploads/sites/2/2016/03/08-8-facts-about-jelly-beans-weird-flavors.jpg
 
 In the first part of https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html[Machine Learning explained to my girlfriend], we discovered https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[what is Machine Learning]. Now, let's have a look to *Supervised Learning* and *Unsupervised Learning*. Enjoy !
 
