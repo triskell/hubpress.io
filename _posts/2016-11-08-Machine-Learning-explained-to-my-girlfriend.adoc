@@ -3,6 +3,8 @@
 :hp-tags: Machine Learning, ML, 101, summary, Machine Learning explained to my girlfirend
 :hp-image: http://sf.co.ua/15/10/wallpaper-1ee5d0.jpg
 
+_For those who have been "chocked" or "disappointed" by the title of this series. All my apologies, but I assume this title. I did not wanted to offense anyone. Yes, this is how I explain it to her. She is very smart, but not in the same domains, she loves history and books which I do not know anything about, so she wanted to understand what I do. It won't be about her, I'm not a pervert to show her here. But she inspired me this series. So, why not refeeing to her in the title? That's a bit like a tribute to her who inspired me. No offense. (BTW, I she is a bit confused about some reactions, and she is glad I was thinking to her when I wrote thos posts)_
+
 Welcome to my series of posts _Machine Learning explained to my girlfirend_. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
 
 Here are the parts of the series : 
