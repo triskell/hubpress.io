@@ -11,8 +11,8 @@
     <link href="//fonts.googleapis.com/css?family=Noto+Sans:300,400,700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="//Triskell.github.io/themes/saga/assets/css/style.css?v=1479157141274" rel="stylesheet" type="text/css">
-    <link href="//Triskell.github.io/themes/saga/assets/css/animate.min.css?v=1479157141274" rel="stylesheet" type="text/css">
+    <link href="//Triskell.github.io/themes/saga/assets/css/style.css?v=1479195840352" rel="stylesheet" type="text/css">
+    <link href="//Triskell.github.io/themes/saga/assets/css/animate.min.css?v=1479195840352" rel="stylesheet" type="text/css">
     <link href="https://Triskell.github.io/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html" />
     <meta name="referrer" content="origin" />
@@ -20,9 +20,11 @@
     <meta property="og:site_name" content="Triskell&#x27;s wanderings" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Supervised Learning and Unsupervised Learning" />
-    <meta property="og:description" content="In the first part of Machine Learning explained to my girlfriend, we discovered what is Machine Learning. Now, let&amp;#8217;s have a look to Supervised Learning and Unsupervised Learning. Enjoy ! Disclaimer: I&amp;#8217;m not pro in Machine Learning and English is not my native language. So, I woud" />
+    <meta property="og:description" content="In the first part of this series we discovered what is Machine Learning. You can find some explanations about the series and the list of posts on this page (Seriously, you should read before reading this page, if you haven&amp;#8217;t yet). Now, let&amp;#8217;s have a look" />
     <meta property="og:url" content="https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html" />
     <meta property="article:tag" content="Machine Learning" />
+    <meta property="article:tag" content=" supervised" />
+    <meta property="article:tag" content=" unsupervised" />
     <meta property="article:tag" content=" ML" />
     <meta property="article:tag" content=" 101" />
     <meta property="article:tag" content=" drawing" />
@@ -31,7 +33,7 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Supervised Learning and Unsupervised Learning" />
-    <meta name="twitter:description" content="In the first part of Machine Learning explained to my girlfriend, we discovered what is Machine Learning. Now, let&amp;#8217;s have a look to Supervised Learning and Unsupervised Learning. Enjoy ! Disclaimer: I&amp;#8217;m not pro in Machine Learning and English is not my native language. So, I woud" />
+    <meta name="twitter:description" content="In the first part of this series we discovered what is Machine Learning. You can find some explanations about the series and the list of posts on this page (Seriously, you should read before reading this page, if you haven&amp;#8217;t yet). Now, let&amp;#8217;s have a look" />
     <meta name="twitter:url" content="https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html" />
     
     <script type="application/ld+json">
@@ -41,7 +43,7 @@ null
     <meta name="generator" content="HubPress" />
     <link rel="alternate" type="application/rss+xml" title="Triskell&#x27;s wanderings" href="https://Triskell.github.io/rss/" />
 </head>
-<body class="post-template tag-Machine-Learning tag-ML tag-101 tag-drawing tag-fun tag-Machine-Learning-explained-to-my-girlfirend">
+<body class="post-template tag-Machine-Learning tag-supervised tag-unsupervised tag-ML tag-101 tag-drawing tag-fun tag-Machine-Learning-explained-to-my-girlfirend">
     <header id="header" class="animated fadeIn" style="background-image: url(http://www.rd.com/wp-content/uploads/sites/2/2016/03/08-8-facts-about-jelly-beans-weird-flavors.jpg)">
     <div class="header-background">
     <section class="blog-content">
@@ -57,22 +59,22 @@ null
     <section class="header-content">
         <h1 class="post-title animated fadeInUp">Supervised Learning and Unsupervised Learning</h1>
         <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1478991600" datetime="2016-11-13T00:00" title="13 November 2016">2 days ago</time></span>
-            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="https://Triskell.github.io/tag/Machine-Learning/">Machine Learning</a>, <a href="https://Triskell.github.io/tag/ML/"> ML</a>, <a href="https://Triskell.github.io/tag/101/"> 101</a>, <a href="https://Triskell.github.io/tag/drawing/"> drawing</a>, <a href="https://Triskell.github.io/tag/fun/"> fun</a>, <a href="https://Triskell.github.io/tag/Machine-Learning-explained-to-my-girlfirend/"> Machine Learning explained to my girlfirend</a></span>
+            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="https://Triskell.github.io/tag/Machine-Learning/">Machine Learning</a>, <a href="https://Triskell.github.io/tag/supervised/"> supervised</a>, <a href="https://Triskell.github.io/tag/unsupervised/"> unsupervised</a>, <a href="https://Triskell.github.io/tag/ML/"> ML</a>, <a href="https://Triskell.github.io/tag/101/"> 101</a>, <a href="https://Triskell.github.io/tag/drawing/"> drawing</a>, <a href="https://Triskell.github.io/tag/fun/"> fun</a>, <a href="https://Triskell.github.io/tag/Machine-Learning-explained-to-my-girlfirend/"> Machine Learning explained to my girlfirend</a></span>
             <span class="author animated fadeInUp"><i class="fa fa-user"></i> <a href="https://Triskell.github.io/author/triskell/">Thomas Abot</a></span></span>
     </section>
     </div>
 </header>
 <main id="main" class="content">
-    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-Machine-Learning tag-ML tag-101 tag-drawing tag-fun tag-Machine-Learning-explained-to-my-girlfirend">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-Machine-Learning tag-supervised tag-unsupervised tag-ML tag-101 tag-drawing tag-fun tag-Machine-Learning-explained-to-my-girlfirend">
         <section class="post-content">
             <div class="paragraph">
-<p>In the first part of <a href="https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html">Machine Learning explained to my girlfriend</a>, we discovered <a href="https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html">what is Machine Learning</a>. Now, let&#8217;s have a look to <strong>Supervised Learning</strong> and <strong>Unsupervised Learning</strong>. Enjoy !</p>
+<p>In the first part of this series we discovered <a href="https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html">what is Machine Learning</a>. You can find some explanations about the series and the list of posts <a href="https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html">on this page</a> (Seriously, you should read before reading this page, if you haven&#8217;t yet).</p>
+</div>
+<div class="paragraph">
+<p>Now, let&#8217;s have a look to <strong>Supervised Learning</strong> and <strong>Unsupervised Learning</strong>. Enjoy !</p>
 </div>
 <div class="paragraph">
 <p><em>Disclaimer: I&#8217;m not pro in Machine Learning and English is not my native language. So, I woud appreciate comments and advices to improve. ;)</em></p>
-</div>
-<div class="paragraph">
-<p><em>For those who have been "chocked" or "disappointed" by the title of this series. All my apologies, but I assume this title. I did not wanted to offense anyone. Yes, this is how I explain it to her. She is very smart, but not in the same domains, she loves history and books which I do not know anything about, so she wanted to understand what I do. It won&#8217;t be about her, I&#8217;m not a pervert to show her here. But she inspired me this series. So, why not refering to her in the title? That&#8217;s a bit like a tribute to her who inspired me. No offense. (BTW, I she is a bit confused about some reactions, and she is glad I was thinking to her when I wrote those posts)</em></p>
 </div>
 <div class="imageblock">
 <div class="content">
@@ -157,7 +159,7 @@ null
 
         hljs.initHighlightingOnLoad();
       </script>
-    <script src="//Triskell.github.io/themes/saga/assets/js/scripts.js?v=1479157141274"></script>
+    <script src="//Triskell.github.io/themes/saga/assets/js/scripts.js?v=1479195840352"></script>
     
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
