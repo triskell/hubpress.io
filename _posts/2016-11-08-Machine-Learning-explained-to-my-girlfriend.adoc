@@ -3,9 +3,10 @@
 :hp-tags: Machine Learning, ML, 101, summary, Machine Learning explained to my girlfirend
 :hp-image: http://sf.co.ua/15/10/wallpaper-1ee5d0.jpg
 
-_For those who have been "chocked" or "disappointed" by the title of this series. All my apologies, but I assume this title. I did not wanted to offense anyone. Yes, this is how I explain it to her. She is very smart, but not in the same domains, she loves history and books which I do not know anything about, so she wanted to understand what I do. It won't be about her, I'm not a pervert to show her here. But she inspired me this series. So, why not refeeing to her in the title? That's a bit like a tribute to her who inspired me. No offense. (BTW, I she is a bit confused about some reactions, and she is glad I was thinking to her when I wrote thos posts)_
-
 Welcome to my series of posts _Machine Learning explained to my girlfirend_. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
+
+In this series of post, I will relate in my way what I told to my grilfriend when she asked what was ML. So this is how I explain it to her. She is very smart, she knows a lot about history and books (which are domains in which I do not know anything about), and she wanted to understand what I do when I do ML. As she as no particuliar knowledge in computer science or mathematics, I had to keep my explanations simple. 
+Let be clear right now: it won't be about her, I don't intend to mention her in my posts. I could have called this series something like *"Machine learing for Dummies"*, but I don't want you to feel like a dummy reading this, and my girlfriend  inspired me this series, based on my explanations to her. So, this is why I refer to her in the title. Just it.
 
 Here are the parts of the series : 
 
