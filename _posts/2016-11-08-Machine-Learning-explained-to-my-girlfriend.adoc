@@ -6,7 +6,7 @@
 Welcome to my series of posts _Machine Learning explained to my girlfirend_. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
 
 In this series of post, I will relate in my way what I told to my grilfriend when she asked what was ML. So this is how I explain it to her. She is very smart, she knows a lot about history and books (which are domains in which I do not know anything about), and she wanted to understand what I do when I do ML. As she as no particuliar knowledge in computer science or mathematics, I had to keep my explanations simple. 
-Let be clear right now: it won't be about her, I don't intend to mention her in my posts. I could have called this series something like *"Machine learing for Dummies"*, but I don't want you to feel like a dummy reading this, and my girlfriend  inspired me this series, based on my explanations to her. So, this is why I refer to her in the title. Just it.
+Let be clear right now: it won't be about her, I don't intend to mention her in my posts. I could have called this series something like _"Machine learing for Dummies"_, but I don't want you to feel like a dummy reading this, and my girlfriend  inspired me this series, based on my explanations to her. So, this is why I refer to her in the title. Just it.
 
 Here are the parts of the series : 
 
