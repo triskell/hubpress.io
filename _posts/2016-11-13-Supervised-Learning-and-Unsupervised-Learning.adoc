@@ -1,9 +1,9 @@
 = Supervised Learning and Unsupervised Learning
 
-:hp-tags: Machine Learning, supervised, unsupervised, ML, 101, drawing, fun, Machine Learning explained to my girlfirend
+:hp-tags: Machine Learning, supervised, unsupervised, ML, 101, drawing, fun, inky, inkyML
 :hp-image: http://www.rd.com/wp-content/uploads/sites/2/2016/03/08-8-facts-about-jelly-beans-weird-flavors.jpg
 
-In the first part of this series we discovered https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[what is Machine Learning]. You can find some explanations about the series and the list of posts https://triskell.github.io/2016/11/08/Machine-Learning-explained-to-my-girlfriend.html[on this page] (Seriously, you should read it before reading this page, if you haven't yet!).
+In the first part of https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html[InkyML] we discovered https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html[what is Machine Learning]. You can find some explanations about the series and the list of posts https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html[on this page].
 
 Now, let's have a look to *Supervised Learning* and *Unsupervised Learning*. Enjoy !
 
