@@ -5,7 +5,7 @@
 
 Welcome to my series of posts _Inky Machine Learning_ or just _InkyML_. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.
 
-This will be a first approach to Machine Learning (or ML) explained and drawn using ink by a guy with inky fingers (that's why it's called inky). Just mean to be fun, and to discover the basic concepts and vocabulary of ML.
+This will be a first approach to Machine Learning (or ML) explained simply and drawn using ink by a guy with inky fingers (that's why it's called "inky"). It just mean to be fun, and to explain the very basic concepts and vocabulary of ML.
 
 Here are the parts of the series : 
 
