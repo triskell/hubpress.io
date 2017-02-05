@@ -1,0 +1,16 @@
+= Reviews on F# resources
+
+:hp-tags: F#
+:hp-image: https://static.pexels.com/photos/298660/pexels-photo-298660.jpeg
+
+I started learning F# recently, and I've been a bit short on resources to learn  it. I had nobody to recommend me some resources. I lost maybe too much time finding resources that fit me. So, to help you, here are some reources, with my review.
+
+I will complete this list as I will discover new resources.
+
+== Lessons
+* *https://university.xamarin.com/classes/track/fsharp[Xamarin University]* : Xamarin University has some classes about learning F# for beginners. There are some videos (5 for now) af about 30 minutes, and some materials to practice. I found clear explanations, and a preview of F# power. That is not a complete learning of F#, but you will find all the basics needed to get started and write your firsts apps. There will be no link with Xamarin and Mobile development.
+* *https://fsharpforfunandprofit.com/[F# for fun and profit]* : Lessons (chapters of an ebook) covering a great part of F#. Maybe a bit too complete for beginners to get started, you will find a great resource to get answers about your F# coding questions.
+
+== Community
+
+* *http://foundation.fsharp.org/[F# Software Foundation]* : You must definively join the foundation. It's free and you get access to a great community with a Slack channel. I've been warmly welcomed, and there are friendly people to help you. From beginners to specialists, from code to data engineering and mobile development, you will find the help you need. Even if you are sy, just try it and say them hello.
