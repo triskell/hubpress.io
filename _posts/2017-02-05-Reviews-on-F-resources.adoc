@@ -13,4 +13,4 @@ I will complete this list as I will discover new resources.
 
 == Community
 
-* *http://foundation.fsharp.org/[F# Software Foundation]* : You must definively join the foundation. It's free and you get access to a great community with a Slack channel. I've been warmly welcomed, and there are friendly people to help you. From beginners to specialists, from code to data engineering and mobile development, you will find the help you need. Even if you are sy, just try it and say them hello.
+* *http://foundation.fsharp.org/[F# Software Foundation]* : It's one of my favorites. You should definively join the foundation. It's free and you get access to a great community with a Slack channel. I've been warmly welcomed, and there are friendly people to help you. From beginners to specialists, from programming to data engineering and mobile development, you will find the help you need. Even if you are shy, just try it and say them hello.
