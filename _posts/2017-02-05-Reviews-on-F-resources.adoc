@@ -5,7 +5,7 @@
 
 I started learning F# recently, and I've been a bit short on resources to learn  it. I had nobody to recommend me some resources. I lost maybe too much time finding resources that fit me. So, to help you, here are some reources, with my review.
 
-I will complete this list as I will discover new resources.
+_I will fill this list as I discover new resources._
 
 == Lessons
 * *https://university.xamarin.com/classes/track/fsharp[Xamarin University]* : Xamarin University has some classes about learning F# for beginners. There are some videos (5 for now) af about 30 minutes, and some materials to practice. I found clear explanations, and a preview of F# power. That is not a complete learning of F#, but you will find all the basics needed to get started and write your firsts apps. There will be no link with Xamarin and Mobile development.
