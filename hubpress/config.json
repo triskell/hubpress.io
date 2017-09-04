@@ -17,5 +17,21 @@
   },
   "theme": {
     "name": "saga"
+  },
+  "urls": {
+    "site": "https://Triskell.github.io",
+    "hubpress": "https://triskell.github.io",
+    "theme": "//Triskell.github.io/themes/saga",
+    "images": "https://Triskell.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
