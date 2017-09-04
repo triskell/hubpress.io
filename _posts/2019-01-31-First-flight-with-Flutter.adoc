@@ -1,0 +1,6 @@
+= First steps with Flutter
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: https://static.pexels.com/photos/33101/new-wing-emergency-at-the-moment.jpg
+// :published_at: 2019-01-31
+:hp-tags: Flutter, mobile, Android, iOS, cross-platform
+// :hp-alt-title: My English Title
