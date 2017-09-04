@@ -1,6 +1,15 @@
-= First steps with Flutter
+= First flight with Flutter
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 :hp-image: https://static.pexels.com/photos/33101/new-wing-emergency-at-the-moment.jpg
 // :published_at: 2019-01-31
 :hp-tags: Flutter, mobile, Android, iOS, cross-platform
 // :hp-alt-title: My English Title
+
+I develop mobile apps for my job, native Android using "good" old Java, and cross-platform using [Xamarin](https://www.xamarin.com/). I acknoledge I started with Cordova/Phonegap, but... Yuck, webviews.
+Recently I passed my Xamarin developper certification, which does only mean I know the basics about Xamarin. And It was cool: cross-platform, native, C# (and F#!) are so delightful after doing Android's Java only.
+
+And some times ago, I found something I was curious about: [Flutter](https://flutter.io).
+
+== What is flutter ?
+
+Flutter is a mobile SDK allowing you to develop apps for both Android and iOS with a single code base.
