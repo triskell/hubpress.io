@@ -1,0 +1,20 @@
+= Flutter Report : January 2018
+:hp-image: https://unsplash.com/photos/8Pd8yCjjKIQ
+// :published_at: 2019-01-31
+:hp-tags: Flutter, Report, News, January, 2018, Mobile,
+// :hp-alt-title: My English Title
+
+== News
+
+https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 23-24.  And they open sourced their  https://t.co/FVxqnPvur4[app] :
+
++++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">DartConf: conference app for DartConf 2018.  <a href="https://t.co/FVxqnPvur4">https://t.co/FVxqnPvur4</a> <a href="https://twitter.com/flutterio?ref_src=twsrc%5Etfw">@flutterio</a> <a href="https://twitter.com/hashtag/flutterio?src=hash&amp;ref_src=twsrc%5Etfw">#flutterio</a></p>&mdash; r/FlutterDev (@r_FlutterDev) <a href="https://twitter.com/r_FlutterDev/status/950484098593771522?ref_src=twsrc%5Etfw">January 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
++++
+
+== Resources
+
+- https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f[Flutter hands on: Building a News App ], a blog post by Ankur Kedia. How Ankur built his news app, his tips, and review on flutter.
+- https://medium.com/@sidky/using-streambuilder-in-flutter-dcc2d89c2eae[Using StreamBuilder in Flutter], a blog post by Manzurur Rahman Khan. About converting a state to Widgets with StreamBuilder and https://github.com/sureshg/rxdart[rxdart].
+
