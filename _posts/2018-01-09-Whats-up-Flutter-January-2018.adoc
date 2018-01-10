@@ -17,5 +17,9 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 
 - https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f[Flutter hands on: Building a News App ], a blog post by Ankur Kedia. How Ankur built his news app, his tips, and review on flutter.
 - https://medium.com/@sidky/using-streambuilder-in-flutter-dcc2d89c2eae[Using StreamBuilder in Flutter], a blog post by Manzurur Rahman Khan. About converting a state to Widgets with StreamBuilder and https://github.com/sureshg/rxdart[rxdart].
+
+== TODO
 - https://medium.com/@manoj_38837/flutter-hands-on-building-a-live-location-sharing-app-14b67ef17404
+- https://www.reddit.com/r/FlutterDev/comments/7pej3b/thoughts_about_flutter_for_2018/
+
 
