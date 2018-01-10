@@ -5,11 +5,115 @@
 :hp-tags: Flutter, mobile, Android, iOS, cross-platform
 // :hp-alt-title: My English Title
 
-I develop mobile apps for my job, native Android using "good" old Java, and cross-platform using [Xamarin](https://www.xamarin.com/). I acknoledge I started with Cordova/Phonegap, but... Yuck, webviews.
-Recently I passed my Xamarin developper certification, which does only mean I know the basics about Xamarin. And It was cool: cross-platform, native, C# (and F#!) are so delightful after doing Android's Java only.
+Some times ago, I found something I was curious about: [Flutter](https://flutter.io). Let's get started with it.
 
-And some times ago, I found something I was curious about: [Flutter](https://flutter.io).
-
-== What is flutter ?
+== What is Flutter ?
 
 Flutter is a mobile SDK allowing you to develop apps for both Android and iOS with a single code base.
+
+_We will get a bit technical to describe Flutter, so you can go to the next section if you don't matter._
+
+So, with Flutter, you've got one base code in https://www.dartlang.org/[Dart], common to all plateforms. However, you can target platform-specific functionality with native code : Java/Kotlin on Android and ObjectiveC/Swift on iOS.
+
+View rendering isn't native. Flutter is using its own optimised rendering engine, based on https://skia.googlesource.com/skia[Skia] and aiming 60 FPS any time, on any device.
+
+Flutter is reactive-oriented, so you will have to get a bit into reactve programmign to use it.
+
+== Install Flutter
+
+That's the easy part. Go to https://flutter.io/[flutter.io], click on https://flutter.io/setup/[Get started], select your operating system, and follow the guide provided.
+
+== Discover the Flutter tool
+
+The Flutter tool is a command line tool. So, next step is to open a command line terminal (Like Bash on Linux, Terminal on OSX, cmd on Windows).
+
+To initialise Flutter and check everything went well during your install, just enter `flutter doctor`. You may have some download to process, just wait a bit in this case. You should then see some information like
+
+```
+[√] Flutter (on Microsoft Windows [version 10.0.16299.125], locale fr-FR, channel alpha)
+    • Flutter at C:\Path\To\flutter
+    • Framework revision 8f65fec5f5 (4 weeks ago), 2017-12-12 09:50:14 -0800
+    • Engine revision edaecdc8b8
+    • Tools Dart version 1.25.0-dev.11.0
+    • Engine Dart version 2.0.0-edge.d8ae797298c3a6cf8dc9f4558707bd2672224d3e
+
+[√] Android toolchain - develop for Android devices (Android SDK 26.0.2)
+    • Android SDK at C:\Path\To\Android\sdk
+    • Android NDK location not configured (optional; useful for native profiling support)
+    • Platform android-26, build-tools 26.0.2
+    • Java binary at: C:\Path\To\jre\bin\java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-915-b01)
+
+[√] Android Studio (version 3.0)
+    • Android Studio at C:\Path\To\Android Studio
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-915-b01)
+
+[√] IntelliJ IDEA Community Edition (version 2017.2)
+    • Flutter plugin version 18.4
+    • Dart plugin version 172.4343.25
+
+[-] Connected devices
+    • None
+```
+If everything went well, your should have "√" everywere, except for "Connected devices" if you have no connected mobile or emulator running.
+
+Remember this command, It can help you to diagnose your flutter environment.
+
+To discover what you can do with the Flutter tool, just type `flutter`. You will get somtehing like this :
+```
+Manage your Flutter app development.
+
+Common commands:
+
+  flutter create <output directory>
+    Create a new Flutter project in the specified directory.
+
+  flutter run [options]
+    Run your Flutter application on an attached device or in an emulator.
+
+Usage: flutter <command> [arguments]
+
+Global options:
+-h, --help            Print this usage information.
+-v, --verbose         Noisy logging, including all shell commands executed.
+-d, --device-id       Target device id or name (prefixes allowed).
+    --version         Reports the version of this tool.
+    --bug-report      Captures a bug report file to submit to the Flutter team (contains local paths, device
+                      identifiers, and log snippets).
+
+    --flutter-root    The root directory of the Flutter repository (uses $FLUTTER_ROOT if set).
+
+Available commands:
+  analyze          Analyze the project's Dart code.
+  build            Flutter build commands.
+  channel          List or switch flutter channels.
+  clean            Delete the build/ directory.
+  config           Configure Flutter settings.
+  create           Create a new Flutter project.
+  devices          List all connected devices.
+  doctor           Show information about the installed tooling.
+  drive            Runs Flutter Driver tests for the current project.
+  format           Format one or more dart files.
+  fuchsia_reload   Hot reload on Fuchsia.
+  help             Display help information for flutter.
+  install          Install a Flutter app on an attached device.
+  logs             Show log output for running Flutter apps.
+  packages         Commands for managing Flutter packages.
+  precache         Populates the Flutter tool's cache of binary artifacts.
+  run              Run your Flutter app on an attached device.
+  screenshot       Take a screenshot from a connected device.
+  stop             Stop your Flutter app on an attached device.
+  test             Run Flutter unit tests for the current project.
+  trace            Start and stop tracing for a running Flutter app.
+  upgrade          Upgrade your copy of Flutter.
+
+Run "flutter help <command>" for more information about a command.
+Run "flutter help -v" for verbose help output, including less commonly used options.
+```
+Most common usages are creating or building a project, installing or runing your app.
+
+But for now we will use Android Studio, which can be much more convenient :)
+
+== Create your first Flutter app
+
+
