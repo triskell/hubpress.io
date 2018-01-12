@@ -22,6 +22,8 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 == TODO
 - https://www.reddit.com/r/FlutterDev/comments/7pej3b/thoughts_about_flutter_for_2018/
 - https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e[Is Flutter’s InheritedWidget a good fit to hold app state?] a blog post by Chema Molins.
+- https://github.com/franzsilva/flutter_launcher_icons[Flutter Launcher Icons] is a Github project by Franz Silva.
+- https://medium.com/coding-your-dreams/using-flutter-to-build-mobile-apps-67dafb9a89a[Using Flutter to build mobile apps] a blog post by Luka Knezić.
 
 _Cover image by Maxime Le Conte Des Floris_
 
