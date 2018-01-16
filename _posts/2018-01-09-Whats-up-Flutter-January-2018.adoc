@@ -22,6 +22,7 @@ If you enjoyed it, or have remarks about it, please let me know below or on http
 - https://www.polidea.com/blog/native-developers-look-on-flutter/[Native Developer’s Look on Flutter], a story by Michał. A mobile native developer gives its opinion on Flutter before and after giving it a try. If you are a native developer, and still hesitate, you should read this!
 
 == Some package releases
+- https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
 - https://pub.dartlang.org/packages/flutter_billing[flutter_billing] v0.0.1. Flutter plugin to enable billing on iOS and Android, by Volodymyr Lykhonis.
 - https://pub.dartlang.org/packages/proximity_plugin[proxymity_plugin] v0.0.1. A flutter dart plugin to access the device's proximity sensor, by ManojNB.
 
