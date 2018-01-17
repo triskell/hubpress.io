@@ -116,4 +116,6 @@ But for now we will use Android Studio, which can be much more convenient :)
 
 == Create your first Flutter app
 
+Just launch Android Studio, and click on "Start a new Flutter project" (if you can't see this button, https://flutter.io/ide-setup/#installing-the-plugins[install the Flutter plugin].
+
 
