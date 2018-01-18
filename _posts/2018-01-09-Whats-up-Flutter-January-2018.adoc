@@ -34,6 +34,7 @@ If you enjoyed it, or have remarks about it, please let me know below or on http
 - http://cogitas.net/know-user-tapped-back-button-back-navigation-arrow-flutter/[How to know when user has tapped the back button or back navigation arrow in Flutter] a blog post by Natalie Masse Hooper.
 - https://flutter.institute/firebase-signin/[Firebase Authentication] a blog post by Brian Armstrong.
 - https://www.youtube.com/watch?v=OpdXLXdYXhU[First Flutter, then Fly: Build Reactive & Performant Cross-Platform Apps] a talk by Nitya Narasimhan at the Windy City DevFest 2018.
+- https://flutter.institute/run-async-operation-on-widget-creation/[Run async operation on widget creation] a blogpost by Brian Armstrong.
 
 
 _Cover image by Maxime Le Conte Des Floris_
