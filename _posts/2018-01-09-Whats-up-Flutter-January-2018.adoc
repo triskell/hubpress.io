@@ -8,7 +8,7 @@
 
 This news report on Flutter is just a gathering of links and information about what happened this January. You may find lots of links on Twitter, Reddit, and newsletters, my first sources of information. This is just a way for me to stay up-to-date on Flutter technology, by browsing and reading things about it.
 
-If you enjoyed it, or have remarks about it, please let me know below or on https://twitter.com/tryxell[Twitter].
+If you enjoyed it, or have remarks about it, please let me know below or on https://twitter.com/triskeon[Twitter].
 
 == News and events
 
