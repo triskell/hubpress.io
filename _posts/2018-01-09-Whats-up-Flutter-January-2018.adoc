@@ -29,6 +29,7 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 - https://medium.com/@manoj_38837/flutter-hands-on-building-a-live-location-sharing-app-14b67ef17404[Flutter hands-on: Building a Live Location Sharing App], a blog post by Manoj N Bisarahalli. How was made a live location sharing app : from design (Inkwell, DecoratedBox, ...) to Firebase usage (login, database).
 - https://www.polidea.com/blog/native-developers-look-on-flutter/[Native Developer’s Look on Flutter], a story by Michał. A mobile native developer gives its opinion on Flutter before and after giving it a try. If you are a native developer, and still hesitate, you should read this!
 - https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa[Animation Management with Flutter and Flux/Redux], a blog post on on to use a Flux/Redux architecture to implement a 2048 game, by Amir Hardon.
+- https://aloisdeniel.github.io//flutter-introduction/[Flutter introduction from a Xamarin developer] by my colleague Alois Deniel, who is a Xamarin expert and has been quite amazed when he discovered Flutter. It's an overview on cool sides of Dart and Flutter. A complete and great introduction to the Flutter world.
 
 == Some package releases
 - https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
