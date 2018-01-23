@@ -35,6 +35,7 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 - https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
 - https://pub.dartlang.org/packages/flutter_billing[flutter_billing] v0.0.1. Flutter plugin to enable billing on iOS and Android, by Volodymyr Lykhonis.
 - https://pub.dartlang.org/packages/proximity_plugin[proxymity_plugin] v0.0.1. A flutter dart plugin to access the device's proximity sensor, by ManojNB.
+- https://pub.dartlang.org/packages/lamp[lamp plugin] v0.0.1. Handle your device's lamp, by Clovis Nicolas.
 
 == TODO
 - https://www.reddit.com/r/FlutterDev/comments/7pej3b/thoughts_about_flutter_for_2018/
