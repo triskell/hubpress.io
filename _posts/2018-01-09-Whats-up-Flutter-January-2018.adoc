@@ -4,11 +4,11 @@
 :hp-tags: Flutter, Report, News, January, 2018, Mobile,
 // :hp-alt-title: My English Title
 
-== Introduction
+== Forewords
 
 This news report on Flutter is just a gathering of links and information about what happened this January. You may find lots of links on Twitter, Reddit, and newsletters, my first sources of information. This is just a way for me to stay up-to-date on Flutter technology, by browsing and reading things about it.
 
-If I forgot something, made some mistakes, or if you want to appear in next _What's up Flutter_ publications, just let me know on https://twitter.com/triskeon[my Twitter].
+This is the first publication, like a proof of concept for me :) As it is not perfect and I need to improve it, I will gladly appreciate to https://twitter.com/triskeon[get some feedbacks] on it.
 
 == News and events
 
@@ -48,6 +48,12 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 - https://medium.com/@john.p.ryan4/sharing-code-on-ios-android-and-web-85e8ed7dfccd[Sharing code on iOS, Android and Web] a blog post by John Ryan.
 - https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith.
 - https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith.
+
+== Conclusion
+With DartConf, the Flutter community seemed to be boosted and posted a lot of interesting stuff. Personnaly, I enjoyed reading all of this, and learned a lot. A big thank you to all those wonderful people who are creating are sharing great content.
+
+I hope you enjoyed this first publication of _What's up Flutter_.
+If I forgot something, made some mistakes, or if you want to appear in next _What's up Flutter_ publications, just let me know on https://twitter.com/triskeon[my Twitter].
 
 _Cover image by Maxime Le Conte Des Floris_
 
