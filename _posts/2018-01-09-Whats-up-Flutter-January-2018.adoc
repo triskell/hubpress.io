@@ -8,7 +8,7 @@
 
 This news report on Flutter is just a gathering of links and information about what happened this January. You may find lots of links on Twitter, Reddit, and newsletters, my first sources of information. This is just a way for me to stay up-to-date on Flutter technology, by browsing and reading things about it.
 
-If you enjoyed it, or have remarks about it, please let me know below or on https://twitter.com/triskeon[Twitter].
+If I forgot something, made some mistakes, or if you want to appear in next _What's up Flutter_ publications, just let me know on https://twitter.com/triskeon[my Twitter].
 
 == News and events
 
@@ -48,7 +48,6 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 - https://medium.com/@john.p.ryan4/sharing-code-on-ios-android-and-web-85e8ed7dfccd[Sharing code on iOS, Android and Web] a blog post by John Ryan.
 - https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith.
 - https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith.
-
 
 _Cover image by Maxime Le Conte Des Floris_
 
