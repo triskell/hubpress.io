@@ -22,6 +22,17 @@ It comes with the first version of Flutter Inspector, which adds widget tree vis
 
 https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 23-24.  And they open sourced their  https://t.co/FVxqnPvur4[app].
 
+You can watch it now on Youtube:
+
+- https://www.youtube.com/watch?v=Sk9ZMIQDpUg[Day 1]
+- https://www.youtube.com/watch?v=4lLI-hZvGg0[Day 2]
+
+==== Tim Sneath's keynote
+
+A quick presentation of Flutter, at first.
+
+He spoke about Dart and why they used it: hot reload, native compilation, language optimisation, open source, ECMA standard.
+
 == Some resources to discover and learn Flutter
 
 - https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f[Flutter hands on: Building a News App ], a blog post by Ankur Kedia. How Ankur built his news app, his tips, and review on flutter.
@@ -40,6 +51,7 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 - https://pub.dartlang.org/packages/flutter_billing[flutter_billing] v0.0.1. Flutter plugin to enable billing on iOS and Android, by Volodymyr Lykhonis.
 - https://pub.dartlang.org/packages/proximity_plugin[proxymity_plugin] v0.0.1. A flutter dart plugin to access the device's proximity sensor, by ManojNB.
 - https://pub.dartlang.org/packages/lamp[lamp plugin] v0.0.1. Handle your device's lamp, by Clovis Nicolas.
+- https://pub.dartlang.org/packages/screen[screen plugin] v0.0.2. Manage the device's screen on Android and iOS, by Clovis Nicolas.
 
 == TODO
 - https://flutter.institute/firebase-signin/[Firebase Authentication] a blog post by Brian Armstrong.
@@ -50,6 +62,7 @@ https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 
 - https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith.
 
 == Conclusion
+
 With DartConf, the Flutter community seemed to be boosted and posted a lot of interesting stuff. Personnaly, I enjoyed reading all of this, and learned a lot. A big thank you to all those wonderful people who are creating are sharing great content.
 
 I hope you enjoyed this first publication of _What's up Flutter_.
