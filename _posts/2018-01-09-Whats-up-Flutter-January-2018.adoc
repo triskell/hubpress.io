@@ -27,7 +27,7 @@ You can watch it now on Youtube:
 - https://www.youtube.com/watch?v=Sk9ZMIQDpUg[Day 1]
 - https://www.youtube.com/watch?v=4lLI-hZvGg0[Day 2]
 
-==== Tim Sneath's keynote
+==== Keynote by Tim Sneath
 
 Tim started with quick presentation of Flutter, no surprise here.
 
@@ -37,7 +37,7 @@ We had a presentation of the https://www.hookle.net/[Hookle] application, which 
 
 Then, some numbers about Flutter, Dart and contributions. In one sentence: Flutter community is impressive.
 
-==== Evolving Dart: Leaving the ocean and learn to fly
+==== Evolving Dart: Leaving the ocean and learn to fly by Leaf Petersen
 
 _A talk by Leaf Petersen._
 
@@ -46,6 +46,30 @@ A Dart history: past, now, future. At the beginning, Dart was design to be a gre
 To extends the language to Dart 2, main challenge was to make a static typing system, who is both developper-friendly and as easy to use as the dynamic typing of Dart 1. Core libraries and tools have been updated to work with Dart 2.
 
 In the future, Dart will include 64-bits integers, optional `new` and `const` keywords. They would like to introduce Generic constructors, smarter type promotion, support for language and library evolution, ease between typed and untyped code, and non-nullable types.
+
+==== Let's Live code in Flutter by Emily Fortuna & Matt Sullivan
+
+TODO
+
+==== Flutter & Web: Unite your code and your team by Matthew Smith and John Ryan
+
+TODO
+
+==== Making Dart fast on mobile
+
+TODO
+
+==== How to build good packages and plugins by Kevin Moore
+
+TODO
+
+==== What's new with AngularDart by Matan Lurey
+
+TODO
+
+==== Power of AngularDart and Trustwave’s Customer Portal by Eric Woerner
+
+TODO
 
 == Some resources to discover and learn Flutter
 
