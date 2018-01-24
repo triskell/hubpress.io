@@ -49,7 +49,7 @@ In the future, Dart will include 64-bits integers, optional `new` and `const` ke
 
 ==== Let's Live code in Flutter by Emily Fortuna & Matt Sullivan
 
-TODO
+Emily and Matt are live coding from scratch (with Visual Studio Code, not Android Studio) a Flutter app which finds restaurants around you. Sources are hosted on the https://github.com/mjohnsullivan/nomnom[nomnom github repository].
 
 ==== Flutter & Web: Unite your code and your team by Matthew Smith and John Ryan
 
