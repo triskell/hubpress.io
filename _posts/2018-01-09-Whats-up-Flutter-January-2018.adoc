@@ -20,7 +20,7 @@ It comes with the first version of Flutter Inspector, which adds widget tree vis
 
 === DartConf 2018
 
-https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 23-24.  And they open sourced their  https://t.co/FVxqnPvur4[app].
+https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 23-24. You can find their dedicated https://t.co/FVxqnPvur4[open source Flutter app].
 
 You can watch it now on Youtube:
 
@@ -29,7 +29,7 @@ You can watch it now on Youtube:
 
 ==== Tim Sneath's keynote
 
-A quick presentation of Flutter, at first.
+Tim started with quick presentation of Flutter, no surprise here.
 
 He spoke about Dart and why they used it: hot reload, native compilation, language optimisation, open source, ECMA standard. They also officialy announced Dart 2 with its strong mode type inference, optional `new` and `const` keywords, common behaviors and error messages on all platforms.
 
@@ -37,6 +37,15 @@ We had a presentation of the https://www.hookle.net/[Hookle] application, which 
 
 Then, some numbers about Flutter, Dart and contributions. In one sentence: Flutter community is impressive.
 
+==== Evolving Dart: Leaving the ocean and learn to fly
+
+_A talk by Leaf Petersen._
+
+A Dart history: past, now, future. At the beginning, Dart was design to be a great JIT language to replace the flawy JavaScript in the browser. Then they adapted the language by creating Strong Mode. Then, came AOT with Flutter and the new version, Dart 2.
+
+To extends the language to Dart 2, main challenge was to make a static typing system, who is both developper-friendly and as easy to use as the dynamic typing of Dart 1. Core libraries and tools have been updated to work with Dart 2.
+
+In the future, Dart will include 64-bits integers, optional `new` and `const` keywords. They would like to introduce Generic constructors, smarter type promotion, support for language and library evolution, ease between typed and untyped code, and non-nullable types.
 
 == Some resources to discover and learn Flutter
 
@@ -65,6 +74,7 @@ Then, some numbers about Flutter, Dart and contributions. In one sentence: Flutt
 - https://medium.com/@john.p.ryan4/sharing-code-on-ios-android-and-web-85e8ed7dfccd[Sharing code on iOS, Android and Web] a blog post by John Ryan.
 - https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith.
 - https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith.
+- http://cogitas.net/show-snackbar-flutter/[How to show a Snackbar in Flutter] a tutorial by Natalie Masse Hooper.
 
 == Conclusion
 
