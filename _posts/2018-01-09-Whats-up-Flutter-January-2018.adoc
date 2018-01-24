@@ -31,7 +31,12 @@ You can watch it now on Youtube:
 
 A quick presentation of Flutter, at first.
 
-He spoke about Dart and why they used it: hot reload, native compilation, language optimisation, open source, ECMA standard.
+He spoke about Dart and why they used it: hot reload, native compilation, language optimisation, open source, ECMA standard. They also officialy announced Dart 2 with its strong mode type inference, optional `new` and `const` keywords, common behaviors and error messages on all platforms.
+
+We had a presentation of the https://www.hookle.net/[Hookle] application, which was built using Flutter. They choose Flutter to accelerate and ease development on iOS and Android.
+
+Then, some numbers about Flutter, Dart and contributions. In one sentence: Flutter community is impressive.
+
 
 == Some resources to discover and learn Flutter
 
