@@ -83,6 +83,12 @@ TODO
 - https://github.com/franzsilva/flutter_launcher_icons[Flutter Launcher Icons] is a Github project by Franz Silva to generate app launcher icons for Android and iOS in different resolutions. You can https://www.youtube.com/watch?v=RjNAxwcP3Tc[watch the demo], too.
 - https://medium.com/coding-your-dreams/using-flutter-to-build-mobile-apps-67dafb9a89a[Using Flutter to build mobile apps] a blog post by Luka Knezić. A mobile developper's first steps with Flutter and his opinion it, in the actual alpha state.
 - http://cogitas.net/know-user-tapped-back-button-back-navigation-arrow-flutter/[How to know when user has tapped the back button or back navigation arrow in Flutter] a tutorial by Natalie Masse Hooper. You will create a simple app with two screens and implement navigation using in-app buttons, back navigation arrow, and Android's back button. You will even implement easily a confirmation popup!
+- https://flutter.institute/firebase-signin/[Firebase Authentication] a tutorial post by Brian Armstrong on how to integrate Google and Firebase authentification in a Flutter app.
+- https://flutter.institute/run-async-operation-on-widget-creation/[Run async operation on widget creation] a blog post by Brian Armstrong. It's just a brief explanation on how to use asynchronous operations in the render method of a widget.
+- https://medium.com/@john.p.ryan4/sharing-code-on-ios-android-and-web-85e8ed7dfccd[Sharing code on iOS, Android and Web] a blog post by John Ryan at AppTree, where they are trying to share as much code as possible between mobile and web platforms. He explains how.
+- https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith. Flutter is still in aplha stage for now, but some companies are already using it, and they seem delighted. You will also find some pros and cons of Flutter and performances measurements, which may help you to decide yourself or your company.
+- https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith. You will learn to display interactive Google Maps in your Flutter apps, using the https://pub.dartlang.org/packages/map_view[MapView plugin].
+- http://cogitas.net/show-snackbar-flutter/[How to show a Snackbar in Flutter] a tutorial by Natalie Masse Hooper, where she implements a basic application showing Snackbars with buttons. You will even use a MVP architecture, a good way to discover it. Lots of things to learn here, not only Snackbars. 
 
 == Some package releases
 - https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
@@ -92,13 +98,8 @@ TODO
 - https://pub.dartlang.org/packages/screen[screen plugin] v0.0.2. Manage the device's screen on Android and iOS, by Clovis Nicolas.
 
 == TODO
-- https://flutter.institute/firebase-signin/[Firebase Authentication] a blog post by Brian Armstrong.
+
 - https://www.youtube.com/watch?v=OpdXLXdYXhU[First Flutter, then Fly: Build Reactive & Performant Cross-Platform Apps] a talk by Nitya Narasimhan at the Windy City DevFest 2018.
-- https://flutter.institute/run-async-operation-on-widget-creation/[Run async operation on widget creation] a blog post by Brian Armstrong.
-- https://medium.com/@john.p.ryan4/sharing-code-on-ios-android-and-web-85e8ed7dfccd[Sharing code on iOS, Android and Web] a blog post by John Ryan.
-- https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith.
-- https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith.
-- http://cogitas.net/show-snackbar-flutter/[How to show a Snackbar in Flutter] a tutorial by Natalie Masse Hooper.
 
 == Conclusion
 
