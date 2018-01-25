@@ -36,8 +36,6 @@ Then, some numbers about Flutter, Dart and contributions. In one sentence: Flutt
 
 ==== Evolving Dart: Leaving the ocean and learn to fly by Leaf Petersen
 
-_A talk by Leaf Petersen._
-
 A Dart history: past, now, future. At the beginning, Dart was design to be a great JIT language to replace the flawy JavaScript in the browser. Then they adapted the language by creating Strong Mode. Then, came AOT with Flutter and the new version, Dart 2.
 
 To extends the language to Dart 2, main challenge was to make a static typing system, who is both developper-friendly and as easy to use as the dynamic typing of Dart 1. Core libraries and tools have been updated to work with Dart 2.
@@ -55,9 +53,11 @@ AppTree needed to build an app for Android, iOS, and Web. As their Web version w
 Their strategy use layers, with abstract views and services to handle platform specific operations. They are using View-Controller-Service layers. Views are simple and only know rendering and user inputs, controllers handle app's logic, and services are accessing to external data, like JSON or HTTP requests.
 They are using dependencies injection to avoid coupling to ease layer swapping between platforms.
 
-==== Making Dart fast on mobile
+==== Making Dart fast on mobile by Vyacheslav Egorov
 
-TODO
+Actually, modified title is _Making Dart fast everywhere where Dart VM runs_, you are warned. As Flutter uses Dart VM, we are fine.
+
+From its beginnings, Dart evolved a lot. Paradigm shifted from types annotations with no effect to strong mode. 
 
 ==== How to build good packages and plugins by Kevin Moore
 
