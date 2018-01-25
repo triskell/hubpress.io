@@ -109,6 +109,7 @@ TODO
 - https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith. Flutter is still in aplha stage for now, but some companies are already using it, and they seem delighted. You will also find some pros and cons of Flutter and performances measurements, which may help you to decide yourself or your company.
 - https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith. You will learn to display interactive Google Maps in your Flutter apps, using the https://pub.dartlang.org/packages/map_view[MapView plugin].
 - http://cogitas.net/show-snackbar-flutter/[How to show a Snackbar in Flutter] a tutorial by Natalie Masse Hooper, where she implements a basic application showing Snackbars with buttons. You will even use a MVP architecture, a good way to discover it. Lots of things to learn here, not only Snackbars. 
+- https://www.dotnetrocks.com/?show=1513[Flutter with Tim Sneath and Adam Barth] a podcast by the _.Net Rocks!_ podcast. In this podcast, they will talk about pretty everything on Flutter : Dart language, Hot reloading, multi-platform, rendering, ... A quite complete approach to start with or learn more about Flutter ecosystem.
 
 == Some package releases
 - https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
@@ -121,7 +122,7 @@ TODO
 == TODO
 
 - https://www.youtube.com/watch?v=OpdXLXdYXhU[First Flutter, then Fly: Build Reactive & Performant Cross-Platform Apps] a talk by Nitya Narasimhan at the Windy City DevFest 2018.
-- https://www.dotnetrocks.com/?show=1513[Flutter with Tim Sneath and Adam Barth] a podcast by the _.Net Rocks!_ podcast.
+- https://www.dotnetrocks.com/?show=1513[Flutter with Tim Sneath and Adam Barth] a podcast by the _.Net Rocks!_ podcast. In this podcast, they will talk about pretty everything on Flutter : Dart language, Hot reloading, multi-platform, rendering, ... A quite complete approach to start with or learn more about Flutter ecosystem.
 
 == Conclusion
 
