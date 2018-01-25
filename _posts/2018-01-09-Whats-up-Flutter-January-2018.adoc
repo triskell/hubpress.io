@@ -38,7 +38,7 @@ Then, some numbers about Flutter, Dart and contributions. In one sentence: Flutt
 
 A Dart history: past, now, future. At the beginning, Dart was design to be a great JIT language to replace the flawy JavaScript in the browser. Then they adapted the language by creating Strong Mode. Then, came AOT with Flutter and the new version, Dart 2.
 
-To extends the language to Dart 2, main challenge was to make a static typing system, who is both developper-friendly and as easy to use as the dynamic typing of Dart 1. Core libraries and tools have been updated to work with Dart 2.
+To extends the language to Dart 2, main challenge was to make a static typing system, who is both developer-friendly and as easy to use as the dynamic typing of Dart 1. Core libraries and tools have been updated to work with Dart 2.
 
 In the future, Dart will include 64-bits integers, optional `new` and `const` keywords. They would like to introduce Generic constructors, smarter type promotion, support for language and library evolution, ease between typed and untyped code, and non-nullable types.
 
@@ -57,7 +57,7 @@ They are using dependencies injection to avoid coupling to ease layer swapping b
 
 Actually, modified title is _Making Dart fast everywhere where Dart VM runs_, you are warned. As Flutter uses Dart VM, we are fine.
 
-From its beginnings, Dart evolved a lot. Paradigm shifted from types annotations with no effect to strong mode. 
+Dart performances vary between Debug and Release mode. Vyacheslav explains how to monitor performances.
 
 ==== How to build good packages and plugins by Kevin Moore
 
@@ -81,7 +81,7 @@ TODO
 - https://aloisdeniel.github.io//flutter-introduction/[Flutter introduction from a Xamarin developer] by my colleague Alois Deniel, who is a Xamarin expert and has been quite amazed when he discovered Flutter. It's an overview on cool sides of Dart and Flutter. A complete and great introduction to the Flutter world.
 - https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e[Is Flutter’s InheritedWidget a good fit to hold app state?] a blog post by Chema Molins. Discover how to use InheritedWidgets, and how they work. Even has some concluding words on Redux!
 - https://github.com/franzsilva/flutter_launcher_icons[Flutter Launcher Icons] is a Github project by Franz Silva to generate app launcher icons for Android and iOS in different resolutions. You can https://www.youtube.com/watch?v=RjNAxwcP3Tc[watch the demo], too.
-- https://medium.com/coding-your-dreams/using-flutter-to-build-mobile-apps-67dafb9a89a[Using Flutter to build mobile apps] a blog post by Luka Knezić. A mobile developper's first steps with Flutter and his opinion it, in the actual alpha state.
+- https://medium.com/coding-your-dreams/using-flutter-to-build-mobile-apps-67dafb9a89a[Using Flutter to build mobile apps] a blog post by Luka Knezić. A mobile developer's first steps with Flutter and his opinion it, in the actual alpha state.
 - http://cogitas.net/know-user-tapped-back-button-back-navigation-arrow-flutter/[How to know when user has tapped the back button or back navigation arrow in Flutter] a tutorial by Natalie Masse Hooper. You will create a simple app with two screens and implement navigation using in-app buttons, back navigation arrow, and Android's back button. You will even implement easily a confirmation popup!
 - https://flutter.institute/firebase-signin/[Firebase Authentication] a tutorial post by Brian Armstrong on how to integrate Google and Firebase authentification in a Flutter app.
 - https://flutter.institute/run-async-operation-on-widget-creation/[Run async operation on widget creation] a blog post by Brian Armstrong. It's just a brief explanation on how to use asynchronous operations in the render method of a widget.
@@ -92,7 +92,7 @@ TODO
 
 == Some package releases
 - https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
-- https://pub.dartlang.org/packages/flutter_billing[flutter_billing] v0.0.1. Flutter plugin to enable billing on iOS and Android, by Volodymyr Lykhonis.
+- https://pub.dartlang.org/packages/flutter_billing[flutter_billing] v0.1.0. Flutter plugin to enable billing on iOS and Android, by Volodymyr Lykhonis.
 - https://pub.dartlang.org/packages/proximity_plugin[proxymity_plugin] v0.0.1. A flutter dart plugin to access the device's proximity sensor, by ManojNB.
 - https://pub.dartlang.org/packages/lamp[lamp plugin] v0.0.1. Handle your device's lamp, by Clovis Nicolas.
 - https://pub.dartlang.org/packages/screen[screen plugin] v0.0.2. Manage the device's screen on Android and iOS, by Clovis Nicolas.
