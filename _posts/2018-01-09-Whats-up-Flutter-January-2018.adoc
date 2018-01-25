@@ -65,6 +65,30 @@ SPOILER: There is a seocnd part on Dart VM garbage collection and memory.
 
 Kevin gives advices on writing, publishing and matntaining great Dart packages and plugins. He goes through coding styles, versioning, files needed to publish and how to maintain your package.
 
+==== Flutter Inspector by Jacob Richman & Phil Quitslun
+
+TODO
+
+==== Keep it Simple, State: Architecture for Flutter Apps by Brian Egan
+
+TODO
+
+==== Effective Dart + IntelliJ by Alexander Doroshko & &Jaime Wren
+
+TODO
+
+==== From Zero to One: Building a real world Flutter Application by Faisal Abid
+
+TODO
+
+==== Flutter/Angular code sharing deep dive by Paolo Soares
+
+TODO
+
+==== It's bigger on the inside: Mind-bending scrolling in Flutter by Vyacheslav Egorov
+
+TODO
+
 == Some resources to discover and learn Flutter
 
 - https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f[Flutter hands on: Building a News App ], a blog post by Ankur Kedia. How Ankur built his news app, his tips, and review on flutter.
