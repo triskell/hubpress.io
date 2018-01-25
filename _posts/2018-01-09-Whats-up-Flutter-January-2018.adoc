@@ -71,7 +71,9 @@ Discover the brand new Flutter Inspector, with its widget inspection, widget tre
 
 ==== Keep it Simple, State: Architecture for Flutter Apps by Brian Egan
 
-TODO
+States in Flutter are not that easy to use : Stateful Widgets are great, but it can be hard to maintain. InheritedWidgets can solve a part of this, but it is not that optimised. Setting up tests can be hard with in some cases, too.
+
+A solution is to use layers : TODO 51:00
 
 ==== Effective Dart + IntelliJ by Alexander Doroshko & &Jaime Wren
 
