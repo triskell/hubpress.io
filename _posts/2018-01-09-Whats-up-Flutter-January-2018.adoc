@@ -50,7 +50,10 @@ Emily and Matt are live coding from scratch (with Visual Studio Code, not Androi
 
 ==== Flutter & Web: Unite your code and your team by Matthew Smith and John Ryan
 
-TODO
+AppTree needed to build an app for Android, iOS, and Web. As their Web version was already written in Dart, they tried to move their mobile native application to Flutter, sharing as much Dart code as possible between Flutter and Web.
+
+Their strategy use layers, with abstract views and services to handle platform specific operations. They are using View-Controller-Service layers. Views are simple and only know rendering and user inputs, controllers handle app's logic, and services are accessing to external data, like JSON or HTTP requests.
+They are using dependencies injection to avoid coupling to ease layer swapping between platforms.
 
 ==== Making Dart fast on mobile
 
