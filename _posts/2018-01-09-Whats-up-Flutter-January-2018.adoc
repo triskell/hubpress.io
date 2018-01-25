@@ -22,10 +22,7 @@ It comes with the first version of Flutter Inspector, which adds widget tree vis
 
 https://events.dartlang.org/2018/dartconf/[DartConf 2018] took place on January 23-24. You can find their dedicated https://t.co/FVxqnPvur4[open source Flutter app].
 
-You can watch it now on Youtube:
-
-- https://www.youtube.com/watch?v=Sk9ZMIQDpUg[Day 1]
-- https://www.youtube.com/watch?v=4lLI-hZvGg0[Day 2]
+You can watch it now on the dedicated https://www.youtube.com/playlist?list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5[Youtube playlist], or if you prefer to watch the live version, you've got https://www.youtube.com/watch?v=Sk9ZMIQDpUg[Day 1 live recording] and https://www.youtube.com/watch?v=4lLI-hZvGg0[Day 2 live recording].
 
 ==== Keynote by Tim Sneath
 
