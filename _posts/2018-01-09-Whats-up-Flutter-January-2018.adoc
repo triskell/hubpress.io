@@ -65,14 +65,6 @@ SPOILER: There is a seocnd part on Dart VM garbage collection and memory.
 
 Kevin gives advices on writing, publishing and matntaining great Dart packages and plugins. He goes through coding styles, versioning, files needed to publish and how to maintain your package.
 
-==== What's new with AngularDart by Matan Lurey
-
-TODO
-
-==== Power of AngularDart and Trustwave’s Customer Portal by Eric Woerner
-
-TODO
-
 == Some resources to discover and learn Flutter
 
 - https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f[Flutter hands on: Building a News App ], a blog post by Ankur Kedia. How Ankur built his news app, his tips, and review on flutter.
