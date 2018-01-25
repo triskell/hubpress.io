@@ -63,7 +63,7 @@ SPOILER: There is a seocnd part on Dart VM garbage collection and memory.
 
 ==== How to build good packages and plugins by Kevin Moore
 
-TODO
+Kevin gives advices on writing, publishing and matntaining great Dart packages and plugins. He goes through coding styles, versioning, files needed to publish and how to maintain your package.
 
 ==== What's new with AngularDart by Matan Lurey
 
