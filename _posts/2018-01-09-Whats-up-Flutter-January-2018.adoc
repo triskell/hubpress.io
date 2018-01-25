@@ -67,7 +67,7 @@ Kevin gives advices on writing, publishing and matntaining great Dart packages a
 
 ==== Flutter Inspector by Jacob Richman & Phil Quitslun
 
-TODO
+Discover the brand new Flutter Inspector, with its widget inspection, widget tree and property visualiser, and how it could help you to develop faster.
 
 ==== Keep it Simple, State: Architecture for Flutter Apps by Brian Egan
 
@@ -119,6 +119,7 @@ TODO
 == TODO
 
 - https://www.youtube.com/watch?v=OpdXLXdYXhU[First Flutter, then Fly: Build Reactive & Performant Cross-Platform Apps] a talk by Nitya Narasimhan at the Windy City DevFest 2018.
+- https://www.dotnetrocks.com/?show=1513[Flutter with Tim Sneath and Adam Barth] a podcast by the _.Net Rocks!_ podcast.
 
 == Conclusion
 
