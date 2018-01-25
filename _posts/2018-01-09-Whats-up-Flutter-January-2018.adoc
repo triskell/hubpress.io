@@ -57,7 +57,9 @@ They are using dependencies injection to avoid coupling to ease layer swapping b
 
 Actually, modified title is _Making Dart fast everywhere where Dart VM runs_, you are warned. As Flutter uses Dart VM, we are fine.
 
-Dart performances vary between Debug and Release mode. Vyacheslav explains how to monitor performances.
+Dart performances vary between Debug and Release mode. Vyacheslav explains how to monitor performances, and what Dart 2 brings to AOT performances.
+
+SPOILER: There is a seocnd part on Dart VM garbage collection and memory.
 
 ==== How to build good packages and plugins by Kevin Moore
 
