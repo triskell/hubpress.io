@@ -93,6 +93,7 @@ TODO
 - https://pub.dartlang.org/packages/proximity_plugin[proxymity_plugin] v0.0.1. A flutter dart plugin to access the device's proximity sensor, by ManojNB.
 - https://pub.dartlang.org/packages/lamp[lamp plugin] v0.0.1. Handle your device's lamp, by Clovis Nicolas.
 - https://pub.dartlang.org/packages/screen[screen plugin] v0.0.2. Manage the device's screen on Android and iOS, by Clovis Nicolas.
+- https://pub.dartlang.org/packages/vibrate[vibrate plugin] v0.0.1. Use device vibration, by Clovis Nicolas.
 
 == TODO
 
