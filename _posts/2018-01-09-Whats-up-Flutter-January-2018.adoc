@@ -71,13 +71,17 @@ Discover the brand new Flutter Inspector, with its widget inspection, widget tre
 
 ==== Keep it Simple, State: Architecture for Flutter Apps by Brian Egan
 
-States in Flutter are not that easy to use : Stateful Widgets are great, but it can be hard to maintain. InheritedWidgets can solve a part of this, but it is not that optimised. Setting up tests can be hard with in some cases, too.
+States in Flutter are not that easy to use : `StatefulWidget` is great, but it can be hard to maintain. `InheritedWidgets` can solve a part of this, but it is not that optimised. Setting up tests can be hard with in some cases, too.
 
-A solution is to use layers : TODO 51:00
+A solution is to use layers :
+
+- Data layer : retreive and parse data.
+- Domain layer : up-to-you to choose your prefered solution. In this talk, we are looking to Redux. This is way more easier to test.
+- UI layer : widgets, using https://pub.dartlang.org/packages/flutter_redux[flutter_redux] in this video to optimise the rendering process with `StoreConnector`.
 
 ==== Effective Dart + IntelliJ by Alexander Doroshko & &Jaime Wren
 
-TODO
+It starts with how to be faster with IntelliJ using shortcuts. Then, ther is an overview the IntelliJ's Flutter/Dart interface usage to be more effective.
 
 ==== From Zero to One: Building a real world Flutter Application by Faisal Abid
 
@@ -122,7 +126,6 @@ TODO
 == TODO
 
 - https://www.youtube.com/watch?v=OpdXLXdYXhU[First Flutter, then Fly: Build Reactive & Performant Cross-Platform Apps] a talk by Nitya Narasimhan at the Windy City DevFest 2018.
-- https://www.dotnetrocks.com/?show=1513[Flutter with Tim Sneath and Adam Barth] a podcast by the _.Net Rocks!_ podcast. In this podcast, they will talk about pretty everything on Flutter : Dart language, Hot reloading, multi-platform, rendering, ... A quite complete approach to start with or learn more about Flutter ecosystem.
 
 == Conclusion
 
