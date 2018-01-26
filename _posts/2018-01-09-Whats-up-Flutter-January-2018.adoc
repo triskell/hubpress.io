@@ -85,11 +85,20 @@ It starts with how to be faster with IntelliJ using shortcuts. Then, ther is an 
 
 ==== From Zero to One: Building a real world Flutter Application by Faisal Abid
 
-TODO
+Faisal built https://play.google.com/store/apps/details?id=app.ven[Ven Chat], an app for singles, using Flutter in 5 days, working 2 hours a day. He used :
+
+- Websockets to connect app to the server. 
+- `InheritedWidget` to handle app's state.
+- https://pub.dartlang.org/packages/jaguar_serializer[jaguar_serializer] plugin to serialize JSON.
+- `GestureRecongnizer` to handle user interactions combined with `Dialog` to interact with user.
+- https://pub.dartlang.org/packages/fluro[Fluro] to handle routes.
+- https://pub.dartlang.org/packages/flutter_image[flutter_image] to ease image loading from network.
+- https://pub.dartlang.org/packages/async_loader[async_loader] to load data asynchronously and show a spinning animation.
 
 ==== Flutter/Angular code sharing deep dive by Paolo Soares
 
-TODO
+Paolo managed to share code between a Flutter and AngularDart. He went up to 50% sharing. In this talk, you can learn that those two farmeworks are great, but not that easily compatible if you already have an existing AngularDart app.
+You'll learn how to share code with some live coding, and some guidelines.
 
 ==== It's bigger on the inside: Mind-bending scrolling in Flutter by Vyacheslav Egorov
 
