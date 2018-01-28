@@ -97,7 +97,7 @@ Faisal built https://play.google.com/store/apps/details?id=app.ven[Ven Chat], an
 
 ==== Flutter/Angular code sharing deep dive by Paolo Soares
 
-Paolo managed to share code between a Flutter and AngularDart. He went up to 50% sharing. In this talk, you can learn that those two farmeworks are great, but not that easily compatible if you already have an existing AngularDart app.
+Paolo managed to share code between a Flutter and AngularDart. He went up to 50% sharing. In this talk, you can learn that those two frameworks are great, but not that easily compatible if you already have an existing AngularDart app.
 You'll learn how to share code with some live coding, and some guidelines.
 
 ==== It's bigger on the inside: Mind-bending scrolling in Flutter by Vyacheslav Egorov
