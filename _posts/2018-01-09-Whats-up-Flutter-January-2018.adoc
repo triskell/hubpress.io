@@ -28,7 +28,7 @@ You can watch it now on the dedicated https://www.youtube.com/playlist?list=PLOU
 
 Tim started with quick presentation of Flutter, no surprise here.
 
-He spoke about Dart and why they used it: hot reload, native compilation, language optimisation, open source, ECMA standard. They also officialy announced Dart 2 with its strong mode type inference, optional `new` and `const` keywords, common behaviors and error messages on all platforms.
+He spoke about Dart and why they used it: hot reload, native compilation, language optimisation, open source, ECMA standard. They also officially announced Dart 2 with its strong mode type inference, optional `new` and `const` keywords, common behaviours and error messages on all platforms.
 
 We had a presentation of the https://www.hookle.net/[Hookle] application, which was built using Flutter. They choose Flutter to accelerate and ease development on iOS and Android.
 
@@ -59,11 +59,11 @@ Actually, modified title is _Making Dart fast everywhere where Dart VM runs_, yo
 
 Dart performances vary between Debug and Release mode. Vyacheslav explains how to monitor performances, and what Dart 2 brings to AOT performances.
 
-SPOILER: There is a seocnd part on Dart VM garbage collection and memory.
+SPOILER: There is a second part on Dart VM garbage collection and memory.
 
 ==== How to build good packages and plugins by Kevin Moore
 
-Kevin gives advices on writing, publishing and matntaining great Dart packages and plugins. He goes through coding styles, versioning, files needed to publish and how to maintain your package.
+Kevin gives advices on writing, publishing and maintaining great Dart packages and plugins. He goes through coding styles, versioning, files needed to publish and how to maintain your package.
 
 ==== Flutter Inspector by Jacob Richman & Phil Quitslun
 
@@ -75,13 +75,13 @@ States in Flutter are not that easy to use : `StatefulWidget` is great, but it c
 
 A solution is to use layers :
 
-- Data layer : retreive and parse data.
-- Domain layer : up-to-you to choose your prefered solution. In this talk, we are looking to Redux. This is way more easier to test.
+- Data layer : retrieve and parse data.
+- Domain layer : up-to-you to choose your preferred solution. In this talk, we are looking to Redux. This is way more easier to test.
 - UI layer : widgets, using https://pub.dartlang.org/packages/flutter_redux[flutter_redux] in this video to optimise the rendering process with `StoreConnector`.
 
 ==== Effective Dart + IntelliJ by Alexander Doroshko & &Jaime Wren
 
-It starts with how to be faster with IntelliJ using shortcuts. Then, ther is an overview the IntelliJ's Flutter/Dart interface usage to be more effective.
+It starts with how to be faster with IntelliJ using shortcuts. Then, there is an overview the IntelliJ's Flutter/Dart interface usage to be more effective.
 
 ==== From Zero to One: Building a real world Flutter Application by Faisal Abid
 
@@ -97,7 +97,7 @@ Faisal built https://play.google.com/store/apps/details?id=app.ven[Ven Chat], an
 
 ==== Flutter/Angular code sharing deep dive by Paolo Soares
 
-Paolo managed to share code between a Flutter and AngularDart. He went up to 50% sharing. In this talk, you can learn that those two farmeworks are great, but not that easily compatible if you already have an existing AngularDart app.
+Paolo managed to share code between a Flutter and AngularDart. He went up to 50% sharing. In this talk, you can learn that those two frameworks are great, but not that easily compatible if you already have an existing AngularDart app.
 You'll learn how to share code with some live coding, and some guidelines.
 
 ==== It's bigger on the inside: Mind-bending scrolling in Flutter by Vyacheslav Egorov
@@ -110,7 +110,7 @@ TODO
 - https://medium.com/@sidky/using-streambuilder-in-flutter-dcc2d89c2eae[Using StreamBuilder in Flutter], a blog post by Manzurur Rahman Khan. About converting a state to Widgets with StreamBuilder and https://github.com/sureshg/rxdart[rxdart].
 - https://medium.com/@manoj_38837/flutter-hands-on-building-a-live-location-sharing-app-14b67ef17404[Flutter hands-on: Building a Live Location Sharing App], a blog post by Manoj N Bisarahalli. How was made a live location sharing app : from design (Inkwell, DecoratedBox, ...) to Firebase usage (login, database).
 - https://www.polidea.com/blog/native-developers-look-on-flutter/[Native Developer’s Look on Flutter], a story by Michał. A mobile native developer gives its opinion on Flutter before and after giving it a try. If you are a native developer, and still hesitate, you should read this!
-- https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa[Animation Management with Flutter and Flux/Redux], a blog post on on to use a Flux/Redux architecture to implement a 2048 game, by Amir Hardon.
+- https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa[Animation Management with Flutter and Flux/Redux], a blog post on how to use a Flux/Redux architecture to implement a 2048 game, by Amir Hardon.
 - https://aloisdeniel.github.io//flutter-introduction/[Flutter introduction from a Xamarin developer] by my colleague Alois Deniel, who is a Xamarin expert and has been quite amazed when he discovered Flutter. It's an overview on cool sides of Dart and Flutter. A complete and great introduction to the Flutter world.
 - https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e[Is Flutter’s InheritedWidget a good fit to hold app state?] a blog post by Chema Molins. Discover how to use InheritedWidgets, and how they work. Even has some concluding words on Redux!
 - https://github.com/franzsilva/flutter_launcher_icons[Flutter Launcher Icons] is a Github project by Franz Silva to generate app launcher icons for Android and iOS in different resolutions. You can https://www.youtube.com/watch?v=RjNAxwcP3Tc[watch the demo], too.
@@ -119,13 +119,13 @@ TODO
 - https://flutter.institute/firebase-signin/[Firebase Authentication] a tutorial post by Brian Armstrong on how to integrate Google and Firebase authentification in a Flutter app.
 - https://flutter.institute/run-async-operation-on-widget-creation/[Run async operation on widget creation] a blog post by Brian Armstrong. It's just a brief explanation on how to use asynchronous operations in the render method of a widget.
 - https://medium.com/@john.p.ryan4/sharing-code-on-ios-android-and-web-85e8ed7dfccd[Sharing code on iOS, Android and Web] a blog post by John Ryan at AppTree, where they are trying to share as much code as possible between mobile and web platforms. He explains how.
-- https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith. Flutter is still in aplha stage for now, but some companies are already using it, and they seem delighted. You will also find some pros and cons of Flutter and performances measurements, which may help you to decide yourself or your company.
+- https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60[Why we chose Flutter and how it’s changed our company for the better.] a story by Matthew Smith. Flutter is still in alpha stage for now, but some companies are already using it, and they seem delighted. You will also find some pros and cons of Flutter and performances measurements, which may help you to decide yourself or your company.
 - https://medium.com/@matthew.smith_66715/maps-in-flutter-a1ac49ab554b[Maps in Flutter] a blog post by Matthew Smith. You will learn to display interactive Google Maps in your Flutter apps, using the https://pub.dartlang.org/packages/map_view[MapView plugin].
 - http://cogitas.net/show-snackbar-flutter/[How to show a Snackbar in Flutter] a tutorial by Natalie Masse Hooper, where she implements a basic application showing Snackbars with buttons. You will even use a MVP architecture, a good way to discover it. Lots of things to learn here, not only Snackbars. 
 - https://www.dotnetrocks.com/?show=1513[Flutter with Tim Sneath and Adam Barth] a podcast by the _.Net Rocks!_ podcast. In this podcast, they will talk about pretty everything on Flutter : Dart language, Hot reloading, multi-platform, rendering, ... A quite complete approach to start with or learn more about Flutter ecosystem.
 https://www.youtube.com/watch?v=OpdXLXdYXhU[First Flutter, then Fly: Build Reactive & Performant Cross-Platform Apps] a talk by Nitya Narasimhan at the Windy City DevFest 2018. Discover Flutter and take your first step with this video.
 - https://aloisdeniel.github.io/flutter-json-serialization/[JSON serialization in Dart strong mode] a blog post by Alois Deniel, who explains ways to serialize JSON format.
-https://flutter.rocks/2018/01/28/implementing-adaptive-master-detail-layouts/[Implementing adaptive master-detail layouts in Flutter] on the https://flutter.rocks/[Flutter Rocks] blog. It's about implementing a Master-Deatil layout in Flutter, that works on mobile and tablets just by creating a Widget to handle screen size. Widgets are dead simple, but powerful!
+https://flutter.rocks/2018/01/28/implementing-adaptive-master-detail-layouts/[Implementing adaptive master-detail layouts in Flutter] on the https://flutter.rocks/[Flutter Rocks] blog. It's about implementing a Master-Detail layout in Flutter, that works on mobile and tablets just by creating a Widget to handle screen size. Widgets are dead simple, but powerful!
 
 == Some package releases
 - https://pub.dartlang.org/packages/camera[camera] v0.0.2. A Flutter plugin for iOS and Android allowing access to the device cameras, by the Flutter team.
@@ -137,7 +137,7 @@ https://flutter.rocks/2018/01/28/implementing-adaptive-master-detail-layouts/[Im
 
 == Conclusion
 
-With DartConf, the Flutter community seemed to be boosted and posted a lot of interesting stuff. Personnaly, I enjoyed reading all of this, and learned a lot. A big thank you to all those wonderful people who are creating are sharing great content.
+With DartConf, the Flutter community seemed to be boosted and posted a lot of interesting stuff. Personally, I enjoyed reading all of this, and learned a lot. A big thank you to all those wonderful people who are creating are sharing great content.
 
 I hope you enjoyed this first publication of _What's up Flutter_.
 If I forgot something, made some mistakes, or if you want to appear in next _What's up Flutter_ publications, just let me know on https://twitter.com/triskeon[my Twitter].
