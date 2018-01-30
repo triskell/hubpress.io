@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jan 2018 07:39:45 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[What's up Flutter? January 2018]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jan 2018 07:41:32 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[What's up Flutter? January 2018]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_forewords">Forewords</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -165,7 +165,10 @@ You&#8217;ll learn how to share code with some live coding, and some guidelines.
 <div class="sect3">
 <h4 id="_it_s_bigger_on_the_inside_mind_bending_scrolling_in_flutter_by_vyacheslav_egorov">It&#8217;s bigger on the inside: Mind-bending scrolling in Flutter by Vyacheslav Egorov</h4>
 <div class="paragraph">
-<p>Flutter scrolling widgets are impressive, there are lots of things behind it from views to controllers or physics. You will get in this talk an overview of this huge part of Flutter, and learn how to make simple or customs scrolling views.</p>
+<p>Flutter&#8217;s scrolling is built on top of a lot of things. You will get here an overview: views, controllers, physics&#8230;&#8203; That&#8217;s definitively a big thing.  In this talk, you will discover how to use and create scrolling views, from simple to custom widgets.</p>
+</div>
+<div class="paragraph">
+<p>Flutter lets you do whatever you want with scrolling, that&#8217;s huge.</p>
 </div>
 </div>
 </div>
