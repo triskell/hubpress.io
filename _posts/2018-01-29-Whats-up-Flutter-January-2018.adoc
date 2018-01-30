@@ -102,7 +102,9 @@ You'll learn how to share code with some live coding, and some guidelines.
 
 ==== It's bigger on the inside: Mind-bending scrolling in Flutter by Vyacheslav Egorov
 
-Flutter scrolling widgets are impressive, there are lots of things behind it from views to controllers or physics. You will get in this talk an overview of this huge part of Flutter, and learn how to make simple or customs scrolling views.
+Flutter's scrolling is built on top of a lot of things. You will get here an overview: views, controllers, physics... That's definitively a big thing.  In this talk, you will discover how to use and create scrolling views, from simple to custom widgets. 
+
+Flutter lets you do whatever you want with scrolling, that's huge.
 
 == Some resources to discover and learn Flutter
 
