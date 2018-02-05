@@ -15,6 +15,8 @@ TODO
 == Some resources to discover and learn Flutter
 
 - https://medium.com/@johnrcallahan/quiznoob-earn-while-you-learn-a31efb110a84[Quiznoob — Earn while you learn] a blog post by John Callahan.
+- http://cogitas.net/show-firebase-admob-banner-ad-in-flutter/[How to show a Firebase AdMob banner ad in Flutter] a blog post by Natalie Masse Hooper.
+- https://marcinszalek.pl/flutter/integrating-flutter-coveralls/[Integrating Flutter with Coveralls] a blog post by Marcin Szalek.
 
 == Some package releases
 
