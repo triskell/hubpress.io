@@ -17,6 +17,7 @@ TODO
 - https://medium.com/@johnrcallahan/quiznoob-earn-while-you-learn-a31efb110a84[Quiznoob — Earn while you learn] where John Callahan explains how he made an application connected to its https://meetcircle.com/circle/[Circle device]. You can even find his http://www.quiznoob.com/[apps and sources].
 - http://cogitas.net/show-firebase-admob-banner-ad-in-flutter/[How to show a Firebase AdMob banner ad in Flutter] in which Natalie Masse Hooper will teach you how to integrate banner ads in your Flutter applications, and how to make your first application with Firebase AdMob.
 - https://marcinszalek.pl/flutter/integrating-flutter-coveralls/[Integrating Flutter with Coveralls] a blog post by Marcin Szalek on how to integrate your Flutter application with Travis and add it to Coveralls.
+- https://flutter.institute/flutter-with-dart-2/[Flutter with Dart 2] shows us how simple it is to use Flutter with Dart 2, by Brian Armstrong.
 
 == Some package releases
 
