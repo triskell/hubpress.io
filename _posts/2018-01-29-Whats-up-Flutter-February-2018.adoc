@@ -21,6 +21,8 @@ TODO
 - https://pub.dartlang.org/packages/geocoder[geocoder] v0.0.1 by Aloïs Deniel. Access to forward and reverse geocoding functionnalities.
 - https://pub.dartlang.org/packages/fluttie[fluttie] v0.1.1 by simolus3. Display anilations created in http://airbnb.io/lottie/[Lottie]. (No iOS support for now...)
 - https://pub.dartlang.org/packages/contacts_service[contacts_service] v0.0.4 by Clovis Nicolas. Access and manage the device's contacts.
+- https://pub.dartlang.org/packages/dioc[dioc] v0.0.1 by Aloïs Deniel. Inversion of control based on dependency injection through containers.
+- https://pub.dartlang.org/packages/dioc_generator[dioc_generator] V0.0.1 by Aloïs Deniel. A generator of code for https://pub.dartlang.org/packages/dioc[dioc] containers.
 
 == Conclusion
 
