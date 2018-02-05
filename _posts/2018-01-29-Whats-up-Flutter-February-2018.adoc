@@ -14,11 +14,13 @@ TODO
 
 == Some resources to discover and learn Flutter
 
-TODO
+- https://medium.com/@johnrcallahan/quiznoob-earn-while-you-learn-a31efb110a84[Quiznoob — Earn while you learn] a blog post by John Callahan.
 
 == Some package releases
 
-TODO
+- https://pub.dartlang.org/packages/geocoder[geocoder] v0.0.1 by Aloïs Deniel. Access to forward and reverse geocoding functionnalities.
+- https://pub.dartlang.org/packages/fluttie[fluttie] v0.1.1 by simolus3. Display anilations created in http://airbnb.io/lottie/[Lottie]. (No iOS support for now...)
+- https://pub.dartlang.org/packages/contacts_service[contacts_service] v0.0.4 by Clovis Nicolas. Access and manage the device's contacts.
 
 == Conclusion
 
@@ -27,6 +29,6 @@ TODO
 I hope you enjoyed this second publication of _What's up Flutter_.
 If I forgot something, made some mistakes, or if you want to appear in next _What's up Flutter_ publications, just let me know on https://twitter.com/triskeon[my Twitter].
 
-_Cover image by Noah Silliman_
+_Cover image by https://unsplash.com/@noahsilliman[Noah Silliman]_
 
 
