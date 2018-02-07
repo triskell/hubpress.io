@@ -19,6 +19,7 @@ TODO
 - https://marcinszalek.pl/flutter/integrating-flutter-coveralls/[Integrating Flutter with Coveralls] a blog post by Marcin Szalek on how to integrate your Flutter application with Travis and add it to Coveralls.
 - https://flutter.institute/flutter-with-dart-2/[Flutter with Dart 2] shows us how simple it is to use Flutter with Dart 2, by Brian Armstrong.
 - https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3[The Fluture is Now!] where Romain Rastel explains un how he discovered Flutter (And yes, that's my "fault" :P) and what made him love Flutter, from his C# background.
+- https://medium.com/@westdabestdb/flutter-its-easy-to-get-started-995eb20c54a1[Flutter — It’s Easy to Get Started]. As its title say, Görkem Erol explains us how simple it is to install and get working on your first Flutter application. Flutter is definitively beginner-friendly.
 
 == Some package releases
 
