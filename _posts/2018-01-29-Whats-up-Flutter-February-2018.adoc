@@ -18,7 +18,7 @@ TODO
 - http://cogitas.net/show-firebase-admob-banner-ad-in-flutter/[How to show a Firebase AdMob banner ad in Flutter] in which Natalie Masse Hooper will teach you how to integrate banner ads in your Flutter applications, and how to make your first application with Firebase AdMob.
 - https://marcinszalek.pl/flutter/integrating-flutter-coveralls/[Integrating Flutter with Coveralls] a blog post by Marcin Szalek on how to integrate your Flutter application with Travis and add it to Coveralls.
 - https://flutter.institute/flutter-with-dart-2/[Flutter with Dart 2] shows us how simple it is to use Flutter with Dart 2, by Brian Armstrong.
-- https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3[The Fluture is Now!] where Romain Rastel explains un how he discovered Flutter (And, yes, that's my "fault" :P) and what made him love Flutter, from his C# background.
+- https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3[The Fluture is Now!] where Romain Rastel explains un how he discovered Flutter (And yes, that's my "fault" :P) and what made him love Flutter, from his C# background.
 
 == Some package releases
 
@@ -28,6 +28,8 @@ TODO
 - https://pub.dartlang.org/packages/dioc[dioc] v0.0.1 by Aloïs Deniel. Inversion of control based on dependency injection through containers.
 - https://pub.dartlang.org/packages/dioc_generator[dioc_generator] V0.0.1 by Aloïs Deniel. A generator of code for https://pub.dartlang.org/packages/dioc[dioc] containers.
 - https://pub.dartlang.org/packages/tts[tts] v1.0.1 by Alex Blount. Convert your text to speech.
+- https://pub.dartlang.org/packages/flutter_facebook_login[flutter_facebook_login] v1.0.2 by Iiro Krankka. Use the native Facebook Login SDK in your app.
+- https://pub.dartlang.org/packages/flutter_twitter_login[flutter_twitter_login] v1.0.1 by Iiro Krankka. Use the native TwitterKit SDK in your app.
 
 == Conclusion
 
