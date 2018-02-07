@@ -18,6 +18,7 @@ TODO
 - http://cogitas.net/show-firebase-admob-banner-ad-in-flutter/[How to show a Firebase AdMob banner ad in Flutter] in which Natalie Masse Hooper will teach you how to integrate banner ads in your Flutter applications, and how to make your first application with Firebase AdMob.
 - https://marcinszalek.pl/flutter/integrating-flutter-coveralls/[Integrating Flutter with Coveralls] a blog post by Marcin Szalek on how to integrate your Flutter application with Travis and add it to Coveralls.
 - https://flutter.institute/flutter-with-dart-2/[Flutter with Dart 2] shows us how simple it is to use Flutter with Dart 2, by Brian Armstrong.
+- https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3[The Fluture is Now!] where Romain Rastel explains un how he discovered Flutter (And, yes, that's my "fault" :P) and what made him love Flutter, from his C# background.
 
 == Some package releases
 
