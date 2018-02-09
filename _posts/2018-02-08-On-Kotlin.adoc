@@ -5,3 +5,280 @@
 // :hp-alt-title: My English Title
 
 
+== Overview
+
+* Protected against NPE
+* Lambdas (java only has from Java 8)
+* Class extensions
+* Frequently updated
+* Operator overload
+* No semicolon
+* ...
+
+=== Requirements
+
+Android Studio + Kotlin Support to enable
+
+=== Convert Java to Kotlin
+
+Android Studio handles it, but not that perfect (can have side effects!)
+
+=== Ressources
+
+* Kotlin website (TODO:LINK)
+* Goolge ewebsite (TODO:LINK)
+* Book Kotlin in action
+* Kotlin Weekly http://kotlinweekly.net/
+
+=== Guidelines
+
+* Official guidelines Google (TOOD:LINK)
+* Official guidelines JetBrains (TODO:LINK)
+* Android studio code formatter
+
+== Bases
+
+=== Types
+
+`val`:
+
+* immutable
+* only one init
+* can be const
+
+`var`:
+
+* mutable
+
+Best to use `val` by default and change to `var` only when needed.
+
+Values are statically typed.
+Types can be inferre if value is set on the declaration line.
+No primitive type. Everything is an object. When best than primitive typed in Java, where you can have problems converting between primitives types and equivalent object types.
+Nullable types, but you have to precise that type is nullable (non-inferred) with symbol `?`.
+Non-null by default.
+
+`!!` operator can, be used to disable nullable check on a value. Beware! Can create NPE.
+
+`lateinit`:
+* object not null but no value on initialisation
+* Have to be a `var` and non-nullable.
+* non instanciated on compilation or creation (like on Android views)
+
+`lazy`:
+* Object non-null
+* Have to be a `val` non-nullable.
+* Instanciated using an expression computed on first access to value.
+
+=== Functions
+
+* Methods declared using `fun`
+* By default, implicitly returns `Unit`
+* Parameters are always immutables (`val`)
+* Can return multiple values
+* Can use arguments by default
+* You can reference arguments by name
+* A single instruction function can be called like an expression
+* Can have variable numbers of arguments of the same type (like Java) using `vararg` which creates an array of arguments
+
+Can create local functions : function inside an other function (only accessible in it).
+
+=== Flow control
+
+==== If/Else
+* Like Java
+* No ternary operator
+* Can be used as expressions : `val value = if(condition) value1 else value2` (with or without `{}`)
+* Elvis operator `?:` returns a default value if given experssion is null.
+
+==== When
+* Equivalent to Java's `switch`
+* Can compute expressions on each case
+* Default value given by `else` keyword
+* can take only one "argument"
+* can use ranges as test expressions
+
+==== For
+
+* Can work with ranges (begin..end)
+
+==== ForEach
+
+* Like Java
+* Can use lambdas
+
+== Classes
+
+* Like classical POO
+* Contains `var`, `val`, methods.
+* Class name can be different than file name.
+
+=== Constructor
+
+* Always have 1 primary constuctor
+* Can have none or multiple secondary constructors using  `constructor`. Have to call primary constructor.
+* Variables can be declared :
+	- in primary constructor using `val` or `val`
+	- in class declaration
+	- in `init` block, executed after any constructor
+
+=== Object creation
+
+* Like Java, but with no `new` keyword.
+
+=== Properties
+
+* `val` or `var`
+* Implicit getters/setters (implicitely created and called)
+* Can be declared using `get` and `set`
+
+=== Visibility
+
+* Public, by default. Accessible everywhere
+* Private. Accessible in class only.
+* Protected. Priate + child classes.
+* Internal. Accessible in module.
+
+=== Data classes
+
+* Automatically defines :
+	- `equals()`/`hashcode()` 
+	- `toString()` 
+	- `copy()`
+* Useful for POJO
+* Can contain methods since Kotlin 1.1
+
+=== Inheritance
+
+* `final` class by default
+* `open` keyword to allow inheritance
+
+=== Nested/inner classes
+
+* Like Java
+* No access to extern class, by default.
+* `inner` keyword to access extern class attributes
+
+=== Generics
+
+* Like Java, but without wildcard types. You will need to use a base class and make a cast to store different child classes.
+
+== Companions & objects
+
+=== Companion
+
+* Only one per class (if not named)
+* Like an inner static class
+* Can contain constants
+* Can contain static methods
+
+==== Static & const
+
+* No static methods :
+	- use companion methods
+	- `@JvmStatic` to access it statically (companion is static, but its methods are not by default)
+* `val` to make immutable value (but not known at compile time)
+* `const val` is immutable and its value is known at compile time. Have to be used in companion only.
+
+=== Object
+
+* Singleton object (can declare anonymous objects)
+* Can be used to create anonymous object.
+
+== Collections & lists
+
+=== Collections
+
+* Like Java
+* Not same creation :
+	- arrayOf()
+	- arrayOfNull(size)
+	- Array(size, function)
+
+=== Lists
+
+* like Java
+	- MutableList<T>  (interface)
+	- Arraylist<T>    (implementation)
+* Instanciation with
+	- listOf()
+	- mutableListOf()
+
+=== Sets
+
+* like Java
+ 	- MutableSet<T>
+	- HashSet<T>
+* Instanciation
+	- setOf()
+	- mutableSetOf()
+
+=== Maps
+
+* like Java
+* like Lists & Sets
+* performances of mapOf() are bad with great number of elements
+* Better use ArrayMap only from support library ! ;)
+
+== Lambdas
+
+=== It
+
+* `it` is the curren tinctance passed to the function
+* can be renamed with `->`
+
+=== Filter
+
+To filter list
+
+=== find
+
+Find one element in list
+
+=== map
+
+Apply a function to each item in list
+
+=== flatMap
+
+like map, but returns multiple values
+
+=== sort
+
+to sort list
+
+=== first/last
+
+get first or last item matching predicate
+
+=== sum by
+
+add all item in list
+
+=== maxBy & minBy
+
+get max item or min item in list
+
+=== plus & minus
+
+add or substract on each item of list
+
+=== toList & toSet
+
+create new list or new set (no reference)
+
+=== forEach
+
+loop on each item, no return
+
+=== Reduce
+
+apply a function on each couple of element to return only one result
+
+=== disctinctBy
+
+get unique list of items (eliminates duplicates)
+
+
+
+
