@@ -24,6 +24,9 @@ TODO
 - https://medium.com/@edoardo849/whats-hot-in-2018-or-why-fuschia-is-my-favourite-colour-6b3f993c776f[What’s hot in 2018, or why Fuchsia is my favourite colour] by Edo Scalafiotti.
 - https://hackernoon.com/an-introduction-to-flutter-1363f1bbe324[An introduction to Flutter] by Wilfried Mbouenda Mbogne.
 - http://sergiandreplace.com/2018/02/planets-flutter-planet-detail-page/[Planets-Flutter: planet detail page] by Sergi & Replace.
+- https://blog.goposse.com/flutter-create-a-back-end-dev-gets-flutter-running-for-the-first-time-3185041bf380[Flutter Create: A back-end dev gets Flutter running for the first time] by David DeRemer.
+- https://blog.goposse.com/flutter-ftw-top-articles-about-flutter-fec6f365ef81[Flutter FTW: Top Articles about Flutter] by Posse.
+- http://cogitas.net/android-runtime-permission-flow-flutter/[How to implement Android runtime permission flow in Flutter] by Natalie Masse Hooper.
 
 
 == Some package releases
