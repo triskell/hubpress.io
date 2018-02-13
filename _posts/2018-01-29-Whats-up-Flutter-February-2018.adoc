@@ -36,6 +36,7 @@ TODO
 - https://pub.dartlang.org/packages/tts[tts] v1.0.1 by Alex Blount. Convert your text to speech.
 - https://pub.dartlang.org/packages/flutter_facebook_login[flutter_facebook_login] v1.0.2 by Iiro Krankka. Use the native Facebook Login SDK in your app.
 - https://pub.dartlang.org/packages/flutter_twitter_login[flutter_twitter_login] v1.0.1 by Iiro Krankka. Use the native TwitterKit SDK in your app.
+- https://pub.dartlang.org/packages/f_grecaptcha v1.0.0 by simolus3. Verify that the user is human using https://developer.android.com/training/safetynet/recaptcha.html[SafetyNet API] on Android devices.
 
 == Conclusion
 
