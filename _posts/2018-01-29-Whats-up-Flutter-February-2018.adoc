@@ -21,6 +21,11 @@ TODO
 - https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3[The Fluture is Now!] where Romain Rastel explains un how he discovered Flutter (And yes, that's my "fault" :P) and what made him love Flutter, from his C# background.
 - https://medium.com/@westdabestdb/flutter-its-easy-to-get-started-995eb20c54a1[Flutter — It’s Easy to Get Started]. As its title say, Görkem Erol explains us how simple it is to install and get working on your first Flutter application. Flutter is definitively beginner-friendly.
 
+- https://medium.com/@edoardo849/whats-hot-in-2018-or-why-fuschia-is-my-favourite-colour-6b3f993c776f[What’s hot in 2018, or why Fuchsia is my favourite colour] by Edo Scalafiotti.
+- https://hackernoon.com/an-introduction-to-flutter-1363f1bbe324[An introduction to Flutter] by Wilfried Mbouenda Mbogne.
+- http://sergiandreplace.com/2018/02/planets-flutter-planet-detail-page/[Planets-Flutter: planet detail page] by Sergi & Replace.
+
+
 == Some package releases
 
 - https://pub.dartlang.org/packages/geocoder[geocoder] v0.0.1 by Aloïs Deniel. Access to forward and reverse geocoding functionnalities.
