@@ -10,7 +10,13 @@ TODO
 
 == News and events
 
-TODO
++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fq4N0hgOWzU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
++++
+https://www.youtube.com/watch?v=fq4N0hgOWzU
+
+
+https://github.com/google/flutter-desktop-embedding
 
 == Some resources to discover and learn Flutter
 
@@ -20,14 +26,17 @@ TODO
 - https://flutter.institute/flutter-with-dart-2/[Flutter with Dart 2] shows us how simple it is to use Flutter with Dart 2, by Brian Armstrong.
 - https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3[The Fluture is Now!] where Romain Rastel explains un how he discovered Flutter (And yes, that's my "fault" :P) and what made him love Flutter, from his C# background.
 - https://medium.com/@westdabestdb/flutter-its-easy-to-get-started-995eb20c54a1[Flutter — It’s Easy to Get Started]. As its title say, Görkem Erol explains us how simple it is to install and get working on your first Flutter application. Flutter is definitively beginner-friendly.
+- https://hackernoon.com/an-introduction-to-flutter-1363f1bbe324[An introduction to Flutter] is an article from Wilfried Mbouenda Mbogne, giving us an overview about Flutter and why you should use it.
+- http://sergiandreplace.com/2018/02/planets-flutter-planet-detail-page/[Planets-Flutter: planet detail page] on how easy it is to implement a beautiful layout (the planet detail page), by Sergi & Replace.
+- https://blog.goposse.com/flutter-create-a-back-end-dev-gets-flutter-running-for-the-first-time-3185041bf380[Flutter Create: A back-end dev gets Flutter running for the first time] is a story from David DeRemer, a back-end developper who decided to use Flutter. He explains how to setup Flutter and get your first app running.
+- http://cogitas.net/android-runtime-permission-flow-flutter/[How to implement Android runtime permission flow in Flutter] where Natalie Masse Hooper shows how to implement runtime permissions, by writing some Android native code and binding it to your Flutter code. You will even discover the MVP (Model View Presenter) architecture!
+- https://blog.goposse.com/flutter-ftw-top-articles-about-flutter-fec6f365ef81[Flutter FTW: Top Articles about Flutter]. Want to get more articles about Flutter ? Posse gathered the better ones for you.
 
-- https://medium.com/@edoardo849/whats-hot-in-2018-or-why-fuschia-is-my-favourite-colour-6b3f993c776f[What’s hot in 2018, or why Fuchsia is my favourite colour] by Edo Scalafiotti.
-- https://hackernoon.com/an-introduction-to-flutter-1363f1bbe324[An introduction to Flutter] by Wilfried Mbouenda Mbogne.
-- http://sergiandreplace.com/2018/02/planets-flutter-planet-detail-page/[Planets-Flutter: planet detail page] by Sergi & Replace.
-- https://blog.goposse.com/flutter-create-a-back-end-dev-gets-flutter-running-for-the-first-time-3185041bf380[Flutter Create: A back-end dev gets Flutter running for the first time] by David DeRemer.
-- https://blog.goposse.com/flutter-ftw-top-articles-about-flutter-fec6f365ef81[Flutter FTW: Top Articles about Flutter] by Posse.
-- http://cogitas.net/android-runtime-permission-flow-flutter/[How to implement Android runtime permission flow in Flutter] by Natalie Masse Hooper.
-
+- https://medium.com/@lukeaf/flutter-doesnt-need-kotlin-or-anything-else-5773965d5905[Flutter doesn’t need Kotlin (or anything else)] by Luke Freeman.
+- https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf[Why Flutter Uses Dart] by Wm Leler.
+- https://marcinszalek.pl/flutter/ok-google-flutter/[“Ok Google, use my Flutter app!”] by Marcin Szałek.
+- http://cogitas.net/landscape-layouts-flutter/[How to create landscape layouts in Flutter] by Natalie Masse Hooper.
+- https://medium.com/@lets4r/flutorial-create-a-staggered-gridview-9c881a9b0b98[Flutorial: Create a Staggered GridView] by Romain Rastel.
 
 == Some package releases
 
@@ -41,6 +50,7 @@ TODO
 - https://pub.dartlang.org/packages/flutter_twitter_login[flutter_twitter_login] v1.0.1 by Iiro Krankka. Use the native TwitterKit SDK in your app.
 - https://pub.dartlang.org/packages/audio_recorder[audio_recorder] v0.0.1 by Jordan Alcaraz. Record audio and store it locally.
 - https://pub.dartlang.org/packages/f_grecaptcha v1.0.0 by simolus3. Verify that the user is human using https://developer.android.com/training/safetynet/recaptcha.html[SafetyNet API] on Android devices.
+- https://pub.dartlang.org/packages/flutter_staggered_grid_view[flutter_staggered_grid_view] v0.1.1 by Romain Rastel. A Flutter staggered grid view which supports multiple columns with rows of varying sizes.
 
 == Conclusion
 
