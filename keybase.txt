@@ -1,1 +1,55 @@
-keybase-site-verification=-OswCQDaFjpREOCs4E-r38FoUyf3MAGCyKCUucu_E2c
+==================================================================
+https://keybase.io/triskell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://triskell.github.io
+  * I am triskell (https://keybase.io/triskell) on keybase.
+  * I have a public key ASBBByTskf0wHvPYcQocwC8oFhWuL5b0NqyhF5TDtM9mQgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120057553d4f1d92a9d7fe0e92c7a5bdd5921c06a247f9db41a9b81d4af13fa6f8c0a",
+      "host": "keybase.io",
+      "kid": "0120410724ec91fd301ef3d8710a1cc02f281615ae2f96f436aca11794c3b4cf66420a",
+      "uid": "8a2144ed248e2fa12d901c997b1a6419",
+      "username": "triskell"
+    },
+    "merkle_root": {
+      "ctime": 1520076307,
+      "hash": "6c5977fc3c9853a8e4723033a3b6f15b0afde1212c4caa8ec181d0216760e525353831d60510ed28802bcc35c537a6117b3a1960e9a152cde72bc7dda265e189",
+      "hash_meta": "9124b90aff68e33fe7f7f73201763ac08467ae43e08b43e7b4b0c84edf2329b7",
+      "seqno": 2179609
+    },
+    "service": {
+      "hostname": "triskell.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.41"
+  },
+  "ctime": 1520076339,
+  "expire_in": 504576000,
+  "prev": "c1ef356591cd5e6cb7fbb4e7d5d28a8455a7cacde2fb0724e71756db3598d2ae",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQQck7JH9MB7z2HEKHMAvKBYVri+W9DasoReUw7TPZkIKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDU3NTUzZDRmMWQ5MmE5ZDdmZTBlOTJjN2E1YmRkNTkyMWMwNmEyNDdmOWRiNDFhOWI4MWQ0YWYxM2ZhNmY4YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDEwNzI0ZWM5MWZkMzAxZWYzZDg3MTBhMWNjMDJmMjgxNjE1YWUyZjk2ZjQzNmFjYTExNzk0YzNiNGNmNjY0MjBhIiwidWlkIjoiOGEyMTQ0ZWQyNDhlMmZhMTJkOTAxYzk5N2IxYTY0MTkiLCJ1c2VybmFtZSI6InRyaXNrZWxsIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwMDc2MzA3LCJoYXNoIjoiNmM1OTc3ZmMzYzk4NTNhOGU0NzIzMDMzYTNiNmYxNWIwYWZkZTEyMTJjNGNhYThlYzE4MWQwMjE2NzYwZTUyNTM1MzgzMWQ2MDUxMGVkMjg4MDJiY2MzNWM1MzdhNjExN2IzYTE5NjBlOWExNTJjZGU3MmJjN2RkYTI2NWUxODkiLCJoYXNoX21ldGEiOiI5MTI0YjkwYWZmNjhlMzNmZTdmN2Y3MzIwMTc2M2FjMDg0NjdhZTQzZTA4YjQzZTdiNGIwYzg0ZWRmMjMyOWI3Iiwic2Vxbm8iOjIxNzk2MDl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidHJpc2tlbGwuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDEifSwiY3RpbWUiOjE1MjAwNzYzMzksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYzFlZjM1NjU5MWNkNWU2Y2I3ZmJiNGU3ZDVkMjhhODQ1NWE3Y2FjZGUyZmIwNzI0ZTcxNzU2ZGIzNTk4ZDJhZSIsInNlcW5vIjozMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECRYlxDHGRriGfvLNxsgTArMzT/Cwm8NNTPpwaWsYPSdT8DaouIQdioJEPfHbn1JZJXqf5102TBraBvaScVWR0BqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgE9gYMTU/LqXxA7dUR2D1f5LJcRZ0G17gqGLeTshr/5+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/triskell
+
+==================================================================
