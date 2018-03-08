@@ -1,4 +1,158 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jan 2018 07:41:32 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[What's up Flutter? January 2018]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 08 Mar 2018 08:26:21 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[What's up Flutter? February 2018]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_forewords">Forewords</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Flutter community is expanding, more and more great content is appearing online. I&#8217;m so delighted about it.</p>
+</div>
+<div class="paragraph">
+<p>You will see in this listing that February was rich. Very rich. That was a lot of reading for me, but I learned a lot. I hope you will, too.
+You can send me a word <a href="https://twitter.com/triskeon">on twitter</a> to give me your thoughts about this report.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_news_and_events">News and events</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Februeary was short, but full of surprises. To me, the biggest one was the announce of Flutter beta:</p>
+</div>
+<div class="paragraph">
+<p>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">We just announced our first beta at Mobile World Congress! Thank you to our community for helping us reach this milestone. <a href="https://twitter.com/hashtag/MWC18?src=hash&amp;ref_src=twsrc%5Etfw">#MWC18</a><br><br>Learn more here? <a href="https://t.co/uP8IwQakBl">https://t.co/uP8IwQakBl</a> <a href="https://t.co/SOIvWMcxjs">pic.twitter.com/SOIvWMcxjs</a></p>&mdash; Flutter (@flutterio) <a href="https://twitter.com/flutterio/status/968486429754933248?ref_src=twsrc%5Etfw">February 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+</div>
+<div class="paragraph">
+<p>Now, you can attract your colleagues to do Flutter dev. No more "But, it&#8217;s still alpha" excuses. You will achieve to convince them with this video:</p>
+</div>
+<div class="paragraph">
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fq4N0hgOWzU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+You can fin this video on Youtube <a href="https://www.youtube.com/watch?v=fq4N0hgOWzU" class="bare">https://www.youtube.com/watch?v=fq4N0hgOWzU</a></p>
+</div>
+<div class="paragraph">
+<p>And finally, Google created a Github repository: <a href="https://github.com/google/flutter-desktop-embedding">Desktop Embedding for Flutter</a>. Yep, that&#8217;s great news, but be careful: it only target macOS for now, and it&#8217;s still under heavy development.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_some_resources_to_discover_and_learn_flutter">Some resources to discover and learn Flutter</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://medium.com/@johnrcallahan/quiznoob-earn-while-you-learn-a31efb110a84">Quiznoob: Earn while you learn</a> where John Callahan explains how he made an application connected to its <a href="https://meetcircle.com/circle/">Circle device</a>. You can even find his <a href="http://www.quiznoob.com/">apps and sources</a>.</p>
+</li>
+<li>
+<p><a href="http://cogitas.net/show-firebase-admob-banner-ad-in-flutter/">How to show a Firebase AdMob banner ad in Flutter</a> in which Natalie Masse Hooper will teach you how to integrate banner ads in your Flutter applications, and how to make your first application with Firebase AdMob.</p>
+</li>
+<li>
+<p><a href="https://marcinszalek.pl/flutter/integrating-flutter-coveralls/">Integrating Flutter with Coveralls</a> a blog post by Marcin Szalek on how to integrate your Flutter application with Travis and add it to Coveralls.</p>
+</li>
+<li>
+<p><a href="https://flutter.institute/flutter-with-dart-2/">Flutter with Dart 2</a> shows us how simple it is to use Flutter with Dart 2, by Brian Armstrong.</p>
+</li>
+<li>
+<p><a href="https://medium.com/@lets4r/the-fluture-is-now-6040d7dcd9f3">The Fluture is Now!</a> where Romain Rastel explains how he discovered Flutter (And yes, that&#8217;s my "fault" :P) and what made him love Flutter, from his C# background.</p>
+</li>
+<li>
+<p><a href="https://medium.com/@westdabestdb/flutter-its-easy-to-get-started-995eb20c54a1">Flutter: It&#8217;s Easy to Get Started</a>. As its title say, Gorkem Erol explains us how simple it is to install and get working on your first Flutter application. Flutter is definitively beginner-friendly.</p>
+</li>
+<li>
+<p><a href="https://hackernoon.com/an-introduction-to-flutter-1363f1bbe324">An introduction to Flutter</a> is an article from Wilfried Mbouenda Mbogne, giving us an overview about Flutter and why you should use it.</p>
+</li>
+<li>
+<p><a href="http://sergiandreplace.com/2018/02/planets-flutter-planet-detail-page/">Planets-Flutter: planet detail page</a> on how easy it is to implement a beautiful layout (the planet detail page), by Sergi &amp; Replace.</p>
+</li>
+<li>
+<p><a href="https://blog.goposse.com/flutter-create-a-back-end-dev-gets-flutter-running-for-the-first-time-3185041bf380">Flutter Create: A back-end dev gets Flutter running for the first time</a> is a story from David DeRemer, a back-end developer who decided to use Flutter. He explains how to setup Flutter and get your first app running.</p>
+</li>
+<li>
+<p><a href="http://cogitas.net/android-runtime-permission-flow-flutter/">How to implement Android runtime permission flow in Flutter</a> where Natalie Masse Hooper shows how to implement runtime permissions, by writing some Android native code and binding it to your Flutter code. You will even discover the MVP (Model View Presenter) architecture!</p>
+</li>
+<li>
+<p><a href="https://blog.goposse.com/flutter-ftw-top-articles-about-flutter-fec6f365ef81">Flutter FTW: Top Articles about Flutter</a>. Want to get more articles about Flutter? Posse gathered the better ones for you.</p>
+</li>
+<li>
+<p><a href="https://medium.com/@lukeaf/flutter-doesnt-need-kotlin-or-anything-else-5773965d5905">Flutter doesn&#8217;t need Kotlin (or anything else)</a> is an article from Luke Freeman in which he explains why he missed Kotlin while using Dart in the first time, then je learned to love Dart the same as Kotlin.</p>
+</li>
+<li>
+<p><a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf">Why Flutter Uses Dart</a> by Wm Leler. The title is quite explicit, and I hope this article will convince you Dart is the right choice for Flutter.</p>
+</li>
+<li>
+<p><a href="https://marcinszalek.pl/flutter/ok-google-flutter/">"Ok Google, use my Flutter app!"</a> is an Android-oriented article from Marcin Szalek, where he integrates Google assistant in his application.</p>
+</li>
+<li>
+<p><a href="http://cogitas.net/landscape-layouts-flutter/">How to create landscape layouts in Flutter</a> will show you creating a layout which can switch from portrait to landscapes is pretty simple. Natalie Masse Hooper did another great article again.</p>
+</li>
+<li>
+<p><a href="https://medium.com/@lets4r/flutorial-create-a-staggered-gridview-9c881a9b0b98">Flutorial: Create a Staggered GridView</a> where Romain Rastel explains how to use his plugin <a href="https://pub.dartlang.org/packages/flutter_staggered_grid_view">flutter_staggered_grid_view</a> to easily make a Stagerred GridView.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_some_package_releases">Some package releases</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://pub.dartlang.org/packages/geocoder">geocoder</a> v0.0.1 by Alois Deniel. Access to forward and reverse geocoding functionalities.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/fluttie">fluttie</a> v0.1.1 by simolus3. Display animations created in <a href="http://airbnb.io/lottie/">Lottie</a>. (No iOS support for now&#8230;&#8203;)</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/contacts_service">contacts_service</a> v0.0.4 by Clovis Nicolas. Access and manage the device&#8217;s contacts.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/dioc">dioc</a> v0.0.1 by Alois Deniel. Inversion of control based on dependency injection through containers.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/dioc_generator">dioc_generator</a> V0.0.1 by Alois Deniel. A generator of code for <a href="https://pub.dartlang.org/packages/dioc">dioc</a> containers.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/tts">tts</a> v1.0.1 by Alex Blount. Convert your text to speech.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/flutter_facebook_login">flutter_facebook_login</a> v1.0.2 by Iiro Krankka. Use the native Facebook Login SDK in your app.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/flutter_twitter_login">flutter_twitter_login</a> v1.0.1 by Iiro Krankka. Use the native TwitterKit SDK in your app.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/audio_recorder">audio_recorder</a> v0.0.1 by Jordan Alcaraz. Record audio and store it locally.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/f_grecaptcha" class="bare">https://pub.dartlang.org/packages/f_grecaptcha</a> v1.0.0 by simolus3. Verify that the user is human using <a href="https://developer.android.com/training/safetynet/recaptcha.html">SafetyNet API</a> on Android devices.</p>
+</li>
+<li>
+<p><a href="https://pub.dartlang.org/packages/flutter_staggered_grid_view">flutter_staggered_grid_view</a> v0.1.1 by Romain Rastel. A Flutter staggered grid view which supports multiple columns with rows of varying sizes.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_conclusion">Conclusion</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Whoa! February was short, but the community is more productive every day. I hope it will continue to grow that way for a long time. However, collecting links and reading every articles was a lot a work, and I wonder if it is still pertinent. Next month, I may give a try to a more personal and less time consuming form of this report. I&#8217;m not all decided about it, you will see it at the end of March.</p>
+</div>
+<div class="paragraph">
+<p>See you next month !</p>
+</div>
+<div class="paragraph">
+<p>I hope you enjoyed this second publication of <em>What&#8217;s up Flutter</em>.
+If I forgot something, made some mistakes, or if you want to appear in next <em>What&#8217;s up Flutter</em> publications, just let me know on <a href="https://twitter.com/triskeon">my Twitter</a>.</p>
+</div>
+<div class="paragraph">
+<p><em>Cover image by <a href="https://unsplash.com/@noahsilliman">Noah Silliman</a></em></p>
+</div>
+</div>
+</div>]]></description><link>https://Triskell.github.io/2018/02/28/Whats-up-Flutter-February-2018.html</link><guid isPermaLink="true">https://Triskell.github.io/2018/02/28/Whats-up-Flutter-February-2018.html</guid><category><![CDATA[Flutter]]></category><category><![CDATA[Report]]></category><category><![CDATA[News]]></category><category><![CDATA[February]]></category><category><![CDATA[2018]]></category><category><![CDATA[Mobile]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Wed, 28 Feb 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[What's up Flutter? January 2018]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_forewords">Forewords</h2>
 <div class="sectionbody">
 <div class="paragraph">
