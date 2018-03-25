@@ -50,14 +50,28 @@ While I was on Twitter, this post ticked me:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 +++
 
-In his article, Andrea Bizzotto experimented Flutter execution's speed against a native iOS application using Swift. If you are fond of optimisation and performance, this one should tick you too. But be careful! That's just one use case, Flutter may have different speed on your project.
+In https://medium.com/@biz84/how-fast-is-flutter-i-built-a-stopwatch-app-to-find-out-9956fa0e40bd[his article], Andrea Bizzotto experimented Flutter execution's speed against a native iOS application using Swift. If you are fond of optimisation and performance, this one should tick you too. But be careful! That's just one use case, Flutter may have different speed on your project.
 
 However, I was glad to see someone writing about Flutter performances without saying it is far better that other solutions. This bit of objectivity was like some fresh air to me, as I love both native and Flutter development. Flutter is not perfect for every usage (but performances seems to be quite good anyway), keep this is mind and adapt yourself.
 
+== Charts
 
+I was waiting for my colleague http://aloisdeniel.github.io/[Aloïs Deniel] to port his cool C# library https://github.com/aloisdeniel/Microcharts[Microcharts] (based on Skia, yay!) to Dart/Flutter, and the https://pub.dartlang.org/packages/charts_flutter[charts_flutter] package came to me.
 
+You can discover it through https://medium.com/flutter-io/beautiful-animated-charts-for-flutter-164940780b8c[this article] writte by Michael Thomsen. No more excuses not to include charts in your apps!
 
-https://medium.com/@biz84/how-fast-is-flutter-i-built-a-stopwatch-app-to-find-out-9956fa0e40bd
+(BTW, Aloïs, if you read this: I'm still greedily waiting for Microcharts for Flutter)
+
+== Conclusion
+
+That few links where the ones which made me tick, I hope you will find some interest reading them, and you will learn as much as I did.
+
+I found this new way of summing up my month in Flutter more pleasant: by writing about my favorite articles, I am way more involved and I can go deeper. I will try to follow this path and improve next month.
+
+See you in April!
+
+I hope you enjoyed this new issue of _What’s up Flutter_. If I was wrong on some point, or if you want more information about what I just wrote, just let me know on my Twitter.
+
 
 
 _Cover picture by https://unsplash.com/photos/BIcqIPhxZno[Andrea Reiman]_
