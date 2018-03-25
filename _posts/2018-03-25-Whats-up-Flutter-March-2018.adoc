@@ -11,4 +11,17 @@
 
 Here we are, a new month, a new season, and fresh flutter news! Like I said last month, I will try something new, more personal. In this issue, I will not try to read and sum up every links I found, but dive deeper into articles which attracted me more. I hope you will enjoy this expermiment. You can still give me your opinion on twitter[https://twitter.com/triskeon].
 
+== What to look after _Helloworld_?
+
+I was crawling the https://www.reddit.com/r/FlutterDev[r/FlutterDev] channel on Reddit, and I stumbled on this post:
+
++++
+<blockquote class="reddit-card" data-card-created="1521984751"><a href="https://www.reddit.com/r/FlutterDev/comments/84ihr6/simple_state_management_using_flutterdart_way/?ref=share&ref_source=embed">Simple state management using Flutter/Dart way</a> from <a href="http://www.reddit.com/r/FlutterDev">r/FlutterDev</a></blockquote>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
++++
+
+Whether you like Redux/Flux or not, this is a basic architecture to know. If you are a beginner, and you want to go further the classical _Helloworld_ tutorial, you should read the code on the https://github.com/netdur/flutter_simple_arch[GitHub repository].
+
+I enjoyed it quite a lot. It shows you Redux is not mandatory, and you can afford using Flutter with no particular dependency. You will discover _InheritedWidget_ usage in a project really easy to understand.c
+
 _Cover picture by https://unsplash.com/photos/BIcqIPhxZno[Andrea Reiman]_
