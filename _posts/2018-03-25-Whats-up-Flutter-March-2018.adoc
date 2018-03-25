@@ -22,6 +22,26 @@ I was crawling the https://www.reddit.com/r/FlutterDev[r/FlutterDev] channel on 
 
 Whether you like Redux/Flux or not, this is a basic architecture to know. If you are a beginner, and you want to go further the classical _Helloworld_ tutorial, you should read the code on the https://github.com/netdur/flutter_simple_arch[GitHub repository].
 
-I enjoyed it quite a lot. It shows you Redux is not mandatory, and you can afford using Flutter with no particular dependency. You will discover _InheritedWidget_ usage in a project really easy to understand.c
+I enjoyed it quite a lot. It shows you Redux is not mandatory, and you can afford using Flutter with no particular dependency. You will discover _InheritedWidget_ usage in a project really easy to understand.
+
+To sum up, I discovered that not using Redux can be quite clean and OK. And the idea of rediscovering simple code architecture hyped me a lot.
+
+== Embedding a Futter app on Linux desktop
+
+This https://github.com/google/flutter-desktop-embedding/tree/master/linux[Github directory] attracted my eyes. After MacOS last month, this month, Linux desktop. Yay!
+
+Here is an extract of the _README_ file:
+
+> *The Flutter Linux Desktop Embedder*
+>
+> This framework provides the basic functionality for embedding a Flutter app on the Linux desktop. This currently includes support for:
+>
+> - Drawing a Flutter view.
+> - Mouse event handling.
+
+That's still under heavy development, but that's great news, isn't it ?
+
+
+
 
 _Cover picture by https://unsplash.com/photos/BIcqIPhxZno[Andrea Reiman]_
