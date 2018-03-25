@@ -41,7 +41,18 @@ Here is an extract of the _README_ file:
 
 That's still under heavy development, but that's great news, isn't it ?
 
+== How fast 
 
+While I was on Twitter, this post ticked me:
+
++++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">How fast is Flutter? I built a stopwatch app to find out <a href="https://t.co/8FcvcMjHM2">https://t.co/8FcvcMjHM2</a><a href="https://twitter.com/flutterio?ref_src=twsrc%5Etfw">@flutterio</a> <a href="https://twitter.com/hashtag/flutterio?src=hash&amp;ref_src=twsrc%5Etfw">#flutterio</a></p>&mdash; FlutterDev (@r_FlutterDev) <a href="https://twitter.com/r_FlutterDev/status/975493145550041088?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
++++
+
+
+
+https://medium.com/@biz84/how-fast-is-flutter-i-built-a-stopwatch-app-to-find-out-9956fa0e40bd
 
 
 _Cover picture by https://unsplash.com/photos/BIcqIPhxZno[Andrea Reiman]_
