@@ -1,0 +1,77 @@
+
+
+= What's up Flutter? March 2018
+
+:hp-image: https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/andrea-reiman-588198-unsplash.jpg
+// :published_at: 2018-03-31
+:hp-tags: Flutter, Report, News, March, 2018, Mobile,
+// :hp-alt-title: My English Title
+
+== Forewords
+
+Here we are, a new month, a new season, and fresh flutter news! Like I said last month, I will try something new, more personal. In this issue, I will not try to read and sum up every links I found, but dive deeper into articles which attracted me more. I hope you will enjoy this expermiment. You can still give me your opinion on twitter[https://twitter.com/triskeon].
+
+== What to look after _Helloworld_?
+
+I was crawling the https://www.reddit.com/r/FlutterDev[r/FlutterDev] channel on Reddit, and I stumbled on this post:
+
++++
+<blockquote class="reddit-card" data-card-created="1521984751"><a href="https://www.reddit.com/r/FlutterDev/comments/84ihr6/simple_state_management_using_flutterdart_way/?ref=share&ref_source=embed">Simple state management using Flutter/Dart way</a> from <a href="http://www.reddit.com/r/FlutterDev">r/FlutterDev</a></blockquote>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
++++
+
+Whether you like Redux/Flux or not, this is a basic architecture to know. If you are a beginner, and you want to go further the classical _Helloworld_ tutorial, you should read the code on the https://github.com/netdur/flutter_simple_arch[GitHub repository].
+
+I enjoyed it quite a lot. It shows you Redux is not mandatory, and you can afford using Flutter with no particular dependency. You will discover _InheritedWidget_ usage in a project really easy to understand.
+
+To sum up, I discovered that not using Redux can be quite clean and OK. And the idea of rediscovering simple code architecture hyped me a lot.
+
+== Embedding a Futter app on Linux desktop
+
+This https://github.com/google/flutter-desktop-embedding/tree/master/linux[Github directory] attracted my eyes. After MacOS last month, this month, Linux desktop. Yay!
+
+Here is an extract of the _README_ file:
+
+> *The Flutter Linux Desktop Embedder*
+>
+> This framework provides the basic functionality for embedding a Flutter app on the Linux desktop. This currently includes support for:
+>
+> - Drawing a Flutter view.
+> - Mouse event handling.
+
+That's still under heavy development, but that's great news, isn't it ?
+
+== How fast is Flutter?
+
+While I was on Twitter, this post ticked me:
+
++++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">How fast is Flutter? I built a stopwatch app to find out <a href="https://t.co/8FcvcMjHM2">https://t.co/8FcvcMjHM2</a><a href="https://twitter.com/flutterio?ref_src=twsrc%5Etfw">@flutterio</a> <a href="https://twitter.com/hashtag/flutterio?src=hash&amp;ref_src=twsrc%5Etfw">#flutterio</a></p>&mdash; FlutterDev (@r_FlutterDev) <a href="https://twitter.com/r_FlutterDev/status/975493145550041088?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
++++
+
+In https://medium.com/@biz84/how-fast-is-flutter-i-built-a-stopwatch-app-to-find-out-9956fa0e40bd[his article], Andrea Bizzotto experimented Flutter execution's speed against a native iOS application using Swift. If you are fond of optimisation and performance, this one should tick you too. But be careful! That's just one use case, Flutter may have different speed on your project.
+
+However, I was glad to see someone writing about Flutter performances without saying it is far better that other solutions. This bit of objectivity was like some fresh air to me, as I love both native and Flutter development. Flutter is not perfect for every usage (but performances seems to be quite good anyway), keep this is mind and adapt yourself.
+
+== Charts
+
+I was waiting for my colleague http://aloisdeniel.github.io/[Aloïs Deniel] to port his cool C# library https://github.com/aloisdeniel/Microcharts[Microcharts] (based on Skia, yay!) to Dart/Flutter, and the https://pub.dartlang.org/packages/charts_flutter[charts_flutter] package came to me.
+
+You can discover it through https://medium.com/flutter-io/beautiful-animated-charts-for-flutter-164940780b8c[this article] writte by Michael Thomsen. No more excuses not to include charts in your apps!
+
+(BTW, Aloïs, if you read this: I'm still greedily waiting for Microcharts for Flutter)
+
+== Conclusion
+
+That few links where the ones which made me tick, I hope you will find some interest reading them, and you will learn as much as I did.
+
+I found this new way of summing up my month in Flutter more pleasant: by writing about my favorite articles, I am way more involved and I can go deeper. I will try to follow this path and improve next month.
+
+See you in April!
+
+I hope you enjoyed this new issue of _What’s up Flutter_. If I was wrong on some point, or if you want more information about what I just wrote, just let me know on my Twitter.
+
+
+
+_Cover picture by https://unsplash.com/photos/BIcqIPhxZno[Andrea Reiman]_
