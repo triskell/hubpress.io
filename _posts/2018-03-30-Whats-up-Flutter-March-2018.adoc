@@ -3,13 +3,13 @@
 = What's up Flutter? March 2018
 
 :hp-image: https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/andrea-reiman-588198-unsplash.jpg
-// :published_at: 2018-03-31
+:published_at: 2018-03-30
 :hp-tags: Flutter, Report, News, March, 2018, Mobile,
 // :hp-alt-title: My English Title
 
 == Forewords
 
-Here we are, a new month, a new season, and fresh flutter news! Like I said last month, I will try something new, more personal. In this issue, I will not try to read and sum up every links I found, but dive deeper into articles which attracted me more. I hope you will enjoy this expermiment. You can still give me your opinion on twitter[https://twitter.com/triskeon].
+Here we are, a new month, a new season, and fresh flutter news! Like I said last month, I will try something new, more personal. In this issue, I will not try to read and sum up every links I found, but dive deeper into articles which attracted me more. I hope you will enjoy this experiment. You can still give me your opinion on twitter[https://twitter.com/triskeon].
 
 == What to look after _Helloworld_?
 
@@ -26,9 +26,9 @@ I enjoyed it quite a lot. It shows you Redux is not mandatory, and you can affor
 
 To sum up, I discovered that not using Redux can be quite clean and OK. And the idea of rediscovering simple code architecture hyped me a lot.
 
-== Embedding a Futter app on Linux desktop
+== Embedding a Flutter app on Linux desktop
 
-This https://github.com/google/flutter-desktop-embedding/tree/master/linux[Github directory] attracted my eyes. After MacOS last month, this month, Linux desktop. Yay!
+This https://github.com/google/flutter-desktop-embedding/tree/master/linux[GitHub directory] attracted my eyes. After MacOS last month, this month, Linux desktop. Yay!
 
 Here is an extract of the _README_ file:
 
@@ -58,7 +58,7 @@ However, I was glad to see someone writing about Flutter performances without sa
 
 I was waiting for my colleague http://aloisdeniel.github.io/[Aloïs Deniel] to port his cool C# library https://github.com/aloisdeniel/Microcharts[Microcharts] (based on Skia, yay!) to Dart/Flutter, and the https://pub.dartlang.org/packages/charts_flutter[charts_flutter] package came to me.
 
-You can discover it through https://medium.com/flutter-io/beautiful-animated-charts-for-flutter-164940780b8c[this article] writte by Michael Thomsen. No more excuses not to include charts in your apps!
+You can discover it through https://medium.com/flutter-io/beautiful-animated-charts-for-flutter-164940780b8c[this article] written by Michael Thomsen. No more excuses not to include charts in your apps!
 
 (BTW, Aloïs, if you read this: I'm still greedily waiting for Microcharts for Flutter)
 
@@ -66,7 +66,7 @@ You can discover it through https://medium.com/flutter-io/beautiful-animated-cha
 
 That few links where the ones which made me tick, I hope you will find some interest reading them, and you will learn as much as I did.
 
-I found this new way of summing up my month in Flutter more pleasant: by writing about my favorite articles, I am way more involved and I can go deeper. I will try to follow this path and improve next month.
+I found this new way of summing up my month in Flutter more pleasant: by writing about my favourite articles, I am way more involved and I can go deeper. I will try to follow this path and improve next month.
 
 See you in April!
 
