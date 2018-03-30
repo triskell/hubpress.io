@@ -11,7 +11,7 @@
 
 Here we are, a new month, a new season, and fresh flutter news! Like I said last month, I will try something new, more personal. In this issue, I will not try to read and sum up every links I found, but dive deeper into articles which attracted me more. I hope you will enjoy this experiment. You can still give me your opinion on twitter[https://twitter.com/triskeon].
 
-== What to look after _Helloworld_?
+== What to do after _Helloworld_?
 
 I was crawling the https://www.reddit.com/r/FlutterDev[r/FlutterDev] channel on Reddit, and I stumbled on this post:
 
