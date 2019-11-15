@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 30 Mar 2018 06:36:38 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[What's up Flutter? March 2018]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Triskell's wanderings]]></title><description><![CDATA[Triskell's wanderings]]></description><link>https://Triskell.github.io</link><image><url>https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg</url><title>Triskell&apos;s wanderings</title><link>https://Triskell.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 15 Nov 2019 13:01:28 GMT</lastBuildDate><atom:link href="https://Triskell.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[What's up Flutter? March 2018]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_forewords">Forewords</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -116,7 +116,7 @@
 <p><em>Cover picture by <a href="https://unsplash.com/photos/BIcqIPhxZno">Andrea Reiman</a></em></p>
 </div>
 </div>
-</div>]]></description><link>https://Triskell.github.io/2018/03/30/Whats-up-Flutter-March-2018.html</link><guid isPermaLink="true">https://Triskell.github.io/2018/03/30/Whats-up-Flutter-March-2018.html</guid><category><![CDATA[Flutter]]></category><category><![CDATA[Report]]></category><category><![CDATA[News]]></category><category><![CDATA[March]]></category><category><![CDATA[2018]]></category><category><![CDATA[Mobile]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[What's up Flutter? February 2018]]></title><description><![CDATA[<div class="sect1">
+</div>]]></description><link>https://Triskell.github.io/2018/03/30/Whats-up-Flutter-March-2018.html</link><guid isPermaLink="true">https://Triskell.github.io/2018/03/30/Whats-up-Flutter-March-2018.html</guid><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[What's up Flutter? February 2018]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_forewords">Forewords</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -588,7 +588,7 @@ If I forgot something, made some mistakes, or if you want to appear in next <em>
 </ul>
 </div>
 </div>
-</div>]]></description><link>https://Triskell.github.io/2017/02/05/Reviews-on-F-resources.html</link><guid isPermaLink="true">https://Triskell.github.io/2017/02/05/Reviews-on-F-resources.html</guid><category><![CDATA[F#]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 05 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Inky Machine Learning]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://Triskell.github.io/2017/02/05/Reviews-on-F-resources.html</link><guid isPermaLink="true">https://Triskell.github.io/2017/02/05/Reviews-on-F-resources.html</guid><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 05 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Inky Machine Learning]]></title><description><![CDATA[<div class="paragraph">
 <p>Welcome to my series of posts <em>Inky Machine Learning</em> or just <em>InkyML</em>. It does not aim to be exhaustive nor specific, but to be fun and easy to understand.</p>
 </div>
 <div class="paragraph">
@@ -618,7 +618,7 @@ If I forgot something, made some mistakes, or if you want to appear in next <em>
 </div>
 <div class="paragraph">
 <p><em>Drawings in those posts are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/11/15/Inky-Machine-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/15/Inky-Machine-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ML]]></category><category><![CDATA[101]]></category><category><![CDATA[inky]]></category><category><![CDATA[inkyML]]></category><category><![CDATA[summary]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Tue, 15 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Supervised Learning and Unsupervised Learning]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://Triskell.github.io/2016/11/15/Inky-Machine-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/15/Inky-Machine-Learning.html</guid><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Tue, 15 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Supervised Learning and Unsupervised Learning]]></title><description><![CDATA[<div class="paragraph">
 <p>In the first part of <a href="https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html">InkyML</a> we discovered <a href="https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html">what is Machine Learning</a>. You can find some explanations about the series and the list of posts <a href="https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html">on this page</a>.</p>
 </div>
 <div class="paragraph">
@@ -629,32 +629,32 @@ If I forgot something, made some mistakes, or if you want to appear in next <em>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_1.jpg" alt="ML101 SLUL 1.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_1.jpg" alt="ML101 SLUL 1">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_2.jpg" alt="ML101 SLUL 2.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_2.jpg" alt="ML101 SLUL 2">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_3.jpg" alt="ML101 SLUL 3.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_3.jpg" alt="ML101 SLUL 3">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_4.jpg" alt="ML101 SLUL 4.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_4.jpg" alt="ML101 SLUL 4">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_5.jpg" alt="ML101 SLUL 5.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_5.jpg" alt="ML101 SLUL 5">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_6.jpg" alt="ML101 SLUL 6.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_SLUL_6.jpg" alt="ML101 SLUL 6">
 </div>
 </div>
 <div class="paragraph">
@@ -665,7 +665,7 @@ If I forgot something, made some mistakes, or if you want to appear in next <em>
 </div>
 <div class="paragraph">
 <p><em>Those drawings are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[supervised]]></category><category><![CDATA[unsupervised]]></category><category><![CDATA[ML]]></category><category><![CDATA[101]]></category><category><![CDATA[drawing]]></category><category><![CDATA[fun]]></category><category><![CDATA[inky]]></category><category><![CDATA[inkyML]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[What is Machine Learning ?]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html</guid><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[What is Machine Learning ?]]></title><description><![CDATA[<div class="paragraph">
 <p>This is the first post in a series which aims to explain Machine Learning concepts with simple words and fun drawings, named <a href="https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html">InkyML</a>. You can find some explanations about the series and the list of posts <a href="https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html">on this page</a>.</p>
 </div>
 <div class="paragraph">
@@ -673,27 +673,27 @@ If I forgot something, made some mistakes, or if you want to appear in next <em>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_1.jpg" alt="ML101 WiML 1.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_1.jpg" alt="ML101 WiML 1">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_2.jpg" alt="ML101 WiML 2.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_2.jpg" alt="ML101 WiML 2">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_3.jpg" alt="ML101 WiML 3.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_3.jpg" alt="ML101 WiML 3">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_4.jpg" alt="ML101 WiML 4.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_4.jpg" alt="ML101 WiML 4">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_5.jpg" alt="ML101 WiML 5.jpg">
+<img src="https://raw.githubusercontent.com/triskell/triskell.github.io/master/images/ML101_WiML_5.jpg" alt="ML101 WiML 5">
 </div>
 </div>
 <div class="paragraph">
@@ -701,4 +701,4 @@ If I forgot something, made some mistakes, or if you want to appear in next <em>
 </div>
 <div class="paragraph">
 <p><em>Those drawings are under Creative Common license (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>).</em></p>
-</div>]]></description><link>https://Triskell.github.io/2016/10/23/What-is-Machine-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/10/23/What-is-Machine-Learning.html</guid><category><![CDATA[Machine Learning]]></category><category><![CDATA[ML]]></category><category><![CDATA[101]]></category><category><![CDATA[drawing]]></category><category><![CDATA[fun]]></category><category><![CDATA[inky]]></category><category><![CDATA[inkyML]]></category><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 23 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://Triskell.github.io/2016/10/23/What-is-Machine-Learning.html</link><guid isPermaLink="true">https://Triskell.github.io/2016/10/23/What-is-Machine-Learning.html</guid><dc:creator><![CDATA[Thomas Abot]]></dc:creator><pubDate>Sun, 23 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
