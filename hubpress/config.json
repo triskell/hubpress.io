@@ -2,18 +2,33 @@
   "meta": {
     "username": "Triskell",
     "repositoryName": "triskell.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "site": {
     "title": "Triskell's wanderings",
     "cover": "https://uglyduckblog.files.wordpress.com/2014/02/cat-with-cosmos-glasses-animal-hd-wallpaper-1920x1200-1233.jpg",
-    "googleAnalytics": "UA-86103482-1",
-    "disqus": "triskell-github-io"
+    "googleAnalytics": "",
+    "disqus": "triskell-github-io",
+    "description": "",
+    "logo": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": ""
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/tryxell",
     "linkedin": "https://fr.linkedin.com/in/thomas-abot-9a285488",
-    "github": "https://github.com/triskell"
+    "github": "https://github.com/triskell",
+    "email": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
     "name": "saga"
@@ -37,5 +52,6 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "navigation": []
 }
