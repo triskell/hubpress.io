@@ -32,6 +32,10 @@
       null,
       null,
       null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
     ]
   }
 }
